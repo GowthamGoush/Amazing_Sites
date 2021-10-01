@@ -56,7 +56,7 @@
 - [Emupedia](https://emupedia.net/beta/emuos/) - Simulates several retro operating systems for educational purposes
   <details>
     <summary>Preview</summary>
-    <img src="">
+    <img src="PREVIEWS/Emupedia_Gowtham.jpg">
   </details>
 
 ## F
