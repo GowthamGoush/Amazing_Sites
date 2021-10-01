@@ -30,7 +30,7 @@
 - [website-name](Link to the website) - A brief description of that website
   <details>
     <summary>Preview</summary>
-    <img src="Previews/WebsiteName_YourName.jpg">
+    <img src="PREVIEWS/WebsiteName_YourName.jpg">
   </details>
 ```
 
