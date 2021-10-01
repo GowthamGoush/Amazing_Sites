@@ -65,7 +65,7 @@
 - [Gravity-Points](https://codepen.io/akm2/full/rHIsa) - The more gravity centers you plot, the more these forces will start to compete, making your screen all the more chaotic. And yes, your gravity points can absorb one another to create a black hole. It's outer space right there on your computer screen.
   <details>
     <summary>Preview</summary>
-    <img src="Previews/GravityPoints_AmanDutt.jpg">
+    <img src="PREVIEWS/GravityPoints_AmanDutt.jpg">
   </details>
 
 ## H
