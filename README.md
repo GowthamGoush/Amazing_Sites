@@ -34,7 +34,7 @@
   </details>
 ```
 
-**Note** : Please do not edit anything in `README.md` expecting your contribution part.
+**Note** : Please do not edit anything in `README.md` except your contribution part.
 
 5. Create a Pull Request to add the changes to this Repository. Please change the title to `add website-name` and in the description add `resolve #issueNumber`.
 
