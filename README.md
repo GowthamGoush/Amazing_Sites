@@ -30,7 +30,7 @@
 - [website-name](Link to the website) - A brief description of that website
   <details>
     <summary>Preview</summary>
-    <img src="Previews/WebsiteName_YourName.jpg">
+    <img src="PREVIEWS/WebsiteName_YourName.jpg">
   </details>
 ```
 
@@ -45,12 +45,23 @@
 ---
 
 ## A
+- [A Soft Murmur](https://asoftmurmur.com) - A customizable white-noise machine website.
+  It provides five different nature sounds: rain, thunder, waves, wind, and fire. This website is useful to reduce distraction and to focus more on work, or relax.
+  <details>
+    <summary>Preview</summary>
+    <img src="PREVIEWS/a_soft_murmur.jpg">
+  </details>
 
 ## B
 
 ## C
 
 ## D
+- [DSA_450](https://450dsa.com/) - If you're working on your DSA skills for interview prep, you would've definitely heard of [Love Babbar's curated list](https://drive.google.com/file/d/1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb/view) of 450 problems. This website helps you to keep track of your progress.
+  <details>
+    <summary>Preview</summary>
+    <img src="PREVIEWS/450DSA_Lavanya.jpg">
+  </details>
 
 ## E
 - [Emupedia](https://emupedia.net/beta/emuos/) - Simulates several retro operating systems for educational purposes
@@ -62,6 +73,11 @@
 ## F
 
 ## G
+- [Gravity-Points](https://codepen.io/akm2/full/rHIsa) - The more gravity centers you plot, the more these forces will start to compete, making your screen all the more chaotic. And yes, your gravity points can absorb one another to create a black hole. It's outer space right there on your computer screen.
+  <details>
+    <summary>Preview</summary>
+    <img src="PREVIEWS/GravityPoints_AmanDutt.jpg">
+  </details>
 
 ## H
 
@@ -94,10 +110,15 @@
 ## V
 
 ## W
+- [WindowSwap](https://www.window-swap.com/) - Allows you to visit random windows around the world
+  <details>
+    <summary>Preview</summary>
+    <img src="PREVIEWS/WindowSwap_RangarajB.jpg">
+  </details>
+
 
 ## X
 
 ## Y
 
 ## Z
-
