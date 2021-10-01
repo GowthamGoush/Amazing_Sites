@@ -45,6 +45,12 @@
 ---
 
 ## A
+- [A Soft Murmur](https://asoftmurmur.com) - A customizable white-noise machine website.
+  It provides five different nature sounds: rain, thunder, waves, wind, and fire. This website is useful to reduce distraction and to focus more on work, or relax.
+  <details>
+    <summary>Preview</summary>
+    <img src="PREVIEWS/a_soft_murmur.jpg">
+  </details>
 
 ## B
 
