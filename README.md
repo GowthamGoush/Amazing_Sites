@@ -100,7 +100,7 @@
 
 ## W
 - [WindowSwap](https://www.window-swap.com/) - Allows you to visit random windows around the world
-<details>
+  <details>
     <summary>Preview</summary>
     <img src="PREVIEWS/WindowSwap_RangarajB.jpg">
   </details>
