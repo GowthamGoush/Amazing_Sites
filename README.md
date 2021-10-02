@@ -103,7 +103,7 @@
 [radio.garden](http://radio.garden/visit/chennai/jKelPaRC) - Listen to radio around the world
   <details>
     <summary>Preview</summary>
-    <img src="PREVIEWS/radiogarden_RangarajB.jpg">
+    <img src="PREVIEWS/radiogarden_RangarajB.JPG">
   </details>
   
 ## S
