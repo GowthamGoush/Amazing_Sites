@@ -120,7 +120,7 @@
 - [Replit](https://replit.com/) - Replit allows users to write code and build apps and websites using a browser. The site also has various collaborative features, including capability for real-time, multiuser editing with a live chat feed.
   <details>
     <summary>Preview</summary>
-    <img src="PREVIEWS/Replit_Kailas.jpg">
+    <img src="PREVIEWS/Replit_Kailas.JPG">
   </details>
 
 ## S
