@@ -131,6 +131,12 @@
 
 ## V
 
+- [visualgo](https://visualgo.net/en) - This visualizes famous algorithms and data structures through animation. The animation eases the understanding of algorithms and data structures.
+  <details>
+    <summary>Preview</summary>
+    <img src="PREVIEWS/visualgo_kailas.JPG">
+  </details>
+
 ## W
 - [WindowSwap](https://www.window-swap.com/) - Allows you to visit random windows around the world
   <details>
