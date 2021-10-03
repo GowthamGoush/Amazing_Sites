@@ -134,7 +134,7 @@
 - [visualgo](https://visualgo.net/en) - This visualizes famous algorithms and data structures through animation. The animation eases the understanding of algorithms and data structures.
   <details>
     <summary>Preview</summary>
-    <img src="PREVIEWS/visualgo_Kailas.JPG">
+    <img src="PREVIEWS/visualgo_kailas.JPG">
   </details>
 
 ## W
