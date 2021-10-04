@@ -144,6 +144,11 @@
   </details>
 
 ## M
+- [MDN Web Docs](https://developer.mozilla.org/en-US/) - Official documentation repository for the web developers owned by Mozilla.
+  <details>
+    <summary>Preview</summary>
+    <img src="PREVIEWS/MDN Web Docs_ArchanaDash.jpg">
+  </details>
 
 ## N
 
