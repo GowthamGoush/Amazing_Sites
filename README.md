@@ -194,7 +194,7 @@
 - [Sound Of Colleagues](https://soundofcolleagues.com/#) - This website emulates the sound and ambiance of a workplace or an office, with fully customizable user experience. The motivation for this website comes from the fact that many people have been forced to work from home and miss the environment of an office.
   <details>
     <summary>Preview</summary>
-    <img src="PREVIEWS/SoundOfColleagues_Shinozaki1595.jpg">
+    <img src="PREVIEWS/SoundOfColleagues_Shinozaki1595.JPG">
   </details>
 ## T
 
