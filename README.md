@@ -55,12 +55,6 @@
 ## B
 
 ## C
-- [CSS-Tricks](https://css-tricks.com/) - Everything for CSS!
-  Daily articles about CSS, HTML, JavaScript, and all things related to web design and development.
-  <details>
-    <summary>Preview</summary>
-    <img src="PREVIEWS/css-tricks_Arpit282.jpg">
-  </details>
 
 ## D
 - [DSA_450](https://450dsa.com/) - If you're working on your DSA skills for interview prep, you would've definitely heard of [Love Babbar's curated list](https://drive.google.com/file/d/1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb/view) of 450 problems. This website helps you to keep track of your progress.
@@ -91,28 +85,20 @@
   </details>
 
 ## H
-- [HowStuffWorks](https://www.howstuffworks.com/) - This website is dedicated entirely to -- you guessed it -- how things work. And by "things," they mean everything: from airbags to regenerative medicine to velocipede carousels. They've covered so much on this website, it'll be hard to run out of things to read about.
-  <details>
-    <summary>Preview</summary>
-    <img src="PREVIEWS/HowStuffWorks_Aditya.png">
-  </details>
 
 ## I
 
 ## J
-- [Jitter.Video]((https://jitter.video/)) - desiigners handy way for motion design, a website where you can create animations and Export them as a GIF or a video all in your browser, cool tool for future animated posts for any one's social media or any personal project.
-  <details>
-    <summary>Preview</summary>
-    <img src="PREVIEWS/JitterVideo_ShreyaSharma.jpg">
-  </details>
+
 ## K
 
 ## L
-- [Log2Base2](https://log2base2.com/) - Struggling to Learn programming, data structures & algorithms, and prepare for the interview, learn by visualizing the concepts.
+- [learn x in y minutes](https://learnxinyminutes.com) - quickly grab programming language concepts. It is available in 23 languages.
   <details>
     <summary>Preview</summary>
-    <img src="PREVIEWS/Log2Base2_AnuragYadav.jpg">
+    <img src="PREVIEWS/learnxinyminutes_kailas.JPG">
   </details>
+
 
 ## M
 
@@ -135,12 +121,6 @@
   <details>
     <summary>Preview</summary>
     <img src="PREVIEWS/Roadmap_SiddhiGupta.jpg">
-  </details>
-
-- [Regex101](https://regex101.com/) - Site to test regex with explanation, match information and regex reference.
-  <details>
-    <summary>Preview</summary>
-    <img src="PREVIEWS/regex101_tduong10101.JPG">
   </details>
 
 - [Replit](https://replit.com/) - Replit allows users to write code and build apps and websites using a browser. The site also has various collaborative features, including capability for real-time, multiuser editing with a live chat feed.
@@ -170,18 +150,9 @@
     <img src="PREVIEWS/WindowSwap_RangarajB.jpg">
   </details>
 
-- [whoismrrobot](https://www.whoismrrobot.com/exit/) - This website consist of Exit Game played by Elliot Anderson in Famous T.V series Mr Robot ( season 4 ep 11 ) 
-  <details>
-    <summary>Preview</summary>
-    <img src="PREVIEWS/whoismrrobot_0xquark.jpg">
-  </details>
+
 ## X
 
 ## Y
 
 ## Z
-- [z-library](https://1lib.in/) - The world's largest ebook library
-  <details>
-    <summary>Preview</summary>
-    <img src="PREVIEWS/zlibrary_canaryGrapher.jpg">
-  </details>
