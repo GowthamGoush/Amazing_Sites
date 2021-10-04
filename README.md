@@ -52,11 +52,7 @@
     <img src="PREVIEWS/a_soft_murmur.jpg">
   </details>
 
-- [Deep Learning](https://atcold.github.io/pytorch-Deep-Learning/) - An excellent website for deep learning enthusiasts which covers deep learning concepts starting from basics to advanced with implementations. It also supports multiple themes for better focus.
-  <details>
-    <summary>Preview</summary>
-    <img src="PREVIEWS\atcold.github.io_RajarshiDutta.jpg">
-  </details>
+
 
 ## B
 ## C
@@ -79,6 +75,12 @@
     <summary>Preview</summary>
     <img src="PREVIEWS/dev.to_Devyani_Jain.jpg">
   </details>
+
+- [Deep Learning](https://atcold.github.io/pytorch-Deep-Learning/) - An excellent website for deep learning enthusiasts which covers deep learning concepts starting from basics to advanced with implementations. It also supports multiple themes for better focus.
+  <details>
+    <summary>Preview</summary>
+    <img src="PREVIEWS\atcold.github.io_RajarshiDutta.jpg">
+  </details>  
 
 ## E
 - [Emupedia](https://emupedia.net/beta/emuos/) - Simulates several retro operating systems for educational purposes
