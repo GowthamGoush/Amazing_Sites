@@ -137,7 +137,7 @@
     <img src="PREVIEWS/Roadmap_SiddhiGupta.jpg">
   </details>
 
-- [Regex101](https://regex101.com/) - A brief description of that website
+- [Regex101](https://regex101.com/) - Site to test regex with explanation, match information and regex reference.
   <details>
     <summary>Preview</summary>
     <img src="PREVIEWS/regex101_tduong10101.JPG">
