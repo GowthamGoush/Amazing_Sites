@@ -97,7 +97,7 @@
     <img src="PREVIEWS/HowStuffWorks_Aditya.png">
   </details>
 
-- [Humans character website models](https://humans.wannathis.one/) - This website is dedicated entirelt to provide developers with 2d and 3d models to implement them in their projects .
+- [Humans 3d character](https://humans.wannathis.one/) - This website is dedicated entirely to provide developers with 2d and 3d models to implement them in their projects.
   <details>
     <summary>Preview</summary>
     <img src="PREVIEWS/humans character website.JPG">
