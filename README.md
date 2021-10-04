@@ -93,6 +93,11 @@
 ## K
 
 ## L
+- [Log2Base2](https://log2base2.com/) - Struggling to Learn programming, data structures & algorithms, and prepare for the interview, learn by visualizing the concepts.
+  <details>
+    <summary>Preview</summary>
+    <img src="PREVIEWS/Log2Base2_AnuragYadav.jpg">
+  </details>
 
 ## M
 
