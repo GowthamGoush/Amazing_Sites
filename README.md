@@ -75,7 +75,6 @@
     <img src="PREVIEWS/dev.to_Devyani_Jain.jpg">
   </details>
 
-
 ## E
 - [Emupedia](https://emupedia.net/beta/emuos/) - Simulates several retro operating systems for educational purposes
   <details>
@@ -89,7 +88,6 @@
     <summary>Preview</summary>
     <img src="PREVIEWS/freerice_PIreland.jpg">
   </details>
-
 
 - [FutureMe](https://www.futureme.org/) - Send Emails to the future you
   <details>
