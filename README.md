@@ -149,7 +149,11 @@
     <img src="PREVIEWS/WindowSwap_RangarajB.jpg">
   </details>
 
-
+- [whoismrrobot](https://www.whoismrrobot.com/exit/) - This website consist of Exit Game played by Elliot Anderson in Famous T.V series Mr Robot ( season 4 ep 11 ) 
+  <details>
+    <summary>Preview</summary>
+    <img src="PREVIEWS/whoismrrobot_0xquark.jpg">
+  </details>
 ## X
 
 ## Y
