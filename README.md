@@ -129,6 +129,11 @@
     <img src="PREVIEWS/JitterVideo_ShreyaSharma.jpg">
   </details>
 ## K
+- [kottke.org](https://kottke.org/) - One of the oldest blogs on the web. It covers the essential people, inventions, performances, and ideas that increase the collective adjacent possible of humanity – through the eyes of Jason Kottke.
+  <details>
+    <summary>Preview</summary>
+    <img src="PREVIEWS/Kottke_ketilmo.jpg">
+  </details>
 
 ## L
 - [Log2Base2](https://log2base2.com/) - Struggling to Learn programming, data structures & algorithms, and prepare for the interview, learn by visualizing the concepts.
