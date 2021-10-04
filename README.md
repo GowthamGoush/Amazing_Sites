@@ -185,6 +185,12 @@
 
 ## S
 
+- [Smooth DOC](https://smooth-doc.com/) - Smooth DOC is a ready-to-use Gatsby theme to create a documentation website. Creating a pro-quality document website takes weeks. Smooth DOC saves you lot of time and lets you focus on the content.
+  <details>
+    <summary>Preview</summary>
+    <img src="PREVIEWS/SmoothDocs_Ajinkya.jpg">
+  </details>
+
 ## T
 
 ## U
