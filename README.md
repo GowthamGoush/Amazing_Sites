@@ -69,7 +69,7 @@
     <img src="PREVIEWS/450DSA_Lavanya.jpg">
   </details>
 
-  - [dev.to](https://dev.to/) - DEV is a type of Blogging community of software developers getting together to help one another out. You can read many amazing blogs and can get a community badge after completing 1 year. Easy to find any tech related doubts and an enormous amount of ideas on different tech stack for newbies and for seniors developers. This is also one of the best communities of developers and you could gain a lot of knowledge by surfing dev.to.  
+  - [dev.to](https://dev.to/) - DEV is a type of Blogging community of software developers getting together to help one another out. You can read many amazing blogs and can get a community badge after completing 1 year. Easy to find any tech related doubts and an enormous amount of ideas on different tech stack for newbies and for seniors developers.
   <details>
     <summary>Preview</summary>
     <img src="PREVIEWS/dev.to_Devyani_Jain.jpg">
