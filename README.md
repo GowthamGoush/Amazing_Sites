@@ -97,6 +97,12 @@
     <img src="PREVIEWS/HowStuffWorks_Aditya.png">
   </details>
 
+- [Humans 3d character](https://humans.wannathis.one/) - This website is dedicated entirely to provide developers with 2d and 3d models to implement them in their projects.
+  <details>
+    <summary>Preview</summary>
+    <img src="PREVIEWS/humans character website.JPG">
+  </details>
+
 ## I
 - [interneting-is-hard](https://www.internetingishard.com/) - A html/css tutorial site for beginners to quickly learn.
   <details>
