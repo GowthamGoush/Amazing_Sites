@@ -114,6 +114,12 @@
     <img src="PREVIEWS/Log2Base2_AnuragYadav.jpg">
   </details>
 
+- [Learn x in y minutes]( https://learnxinyminutes.com/) - quickly grab programming language concepts. It is available in 23 languages.
+  <details>
+    <summary>Preview</summary>
+    <img src="PREVIEWS/learnxinyminutes_kailas.JPG">
+  </details>
+
 ## M
 
 ## N
