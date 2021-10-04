@@ -180,3 +180,8 @@
 ## Y
 
 ## Z
+- [z-library](https://1lib.in/) - The world's largest ebook library
+  <details>
+    <summary>Preview</summary>
+    <img src="PREVIEWS/zlibrary_canaryGrapher.jpg">
+  </details>
