@@ -69,6 +69,13 @@
     <img src="PREVIEWS/450DSA_Lavanya.jpg">
   </details>
 
+- [DEV](https://dev.to/) - A constructive and inclusive social network for software developers.
+  <details>
+    <summary>Preview</summary>
+    <img src="PREVIEWS/dev.to_Devyani_Jain.jpg">
+  </details>
+
+
 ## E
 - [Emupedia](https://emupedia.net/beta/emuos/) - Simulates several retro operating systems for educational purposes
   <details>
