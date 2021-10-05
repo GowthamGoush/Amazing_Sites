@@ -120,10 +120,10 @@
 ## E
 
 - [Exchange Rate Calculator](https://samarthraj11.github.io/Basic-Projects/exchangeRateCalculator/) - This calculates the real-time exchange value of currencies by making API calls.
-<details>
-   <summary>Preview</summary>
-   <img src="PREVIEWS/ERC_SamarthRaj.jpg">
- </details>
+  <details>
+    <summary>Preview</summary>
+    <img src="PREVIEWS/ERC_SamarthRaj.jpg">
+  </details>
 
 - [Elements of AI](https://www.elementsofai.com/) - Free online AI courses that combine theory with practical exercises that you can complete at your own pace.
   <details>
