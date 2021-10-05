@@ -244,7 +244,7 @@
   - [Swipwire the Tech Forum](https://swipwire.com/) - Trendy and new tech discussion forum for all tech lover. Any one can contribute with site and can get traffics and free backlinks.
   <details>
     <summary>Preview</summary>
-    <img src="PREVIEWS/SwipwireTheTechForum_Dhanushka.jpg">
+    <img src="PREVIEWS/SwipwireTheTechForum_Dhanushka.jpeg">
   </details>
 
 ## T
