@@ -127,11 +127,18 @@
   </details>
 
 ## I
+- [IconScout](https://iconscout.com/) - Curated SVGs, Vector Icons, Illustrations, 3D graphics, and Lottie Animations. Over 4000+ new assets added every day. Integrated plugins, tools, editors, and more.
+  <details>
+    <summary>Preview</summary>
+    <img src="PREVIEWS/Iconscout_AnuragYadav.jpg">
+  </details>
+
 - [interneting-is-hard](https://www.internetingishard.com/) - A html/css tutorial site for beginners to quickly learn.
   <details>
     <summary>Preview</summary>
     <img src="PREVIEWS/internetingishard_kailas.JPG">
   </details>
+
 - [Internet Live Stats](https://www.internetlivestats.com/) - Watch the Internet as it grows in real time!
   <details>
     <summary>Preview</summary>
