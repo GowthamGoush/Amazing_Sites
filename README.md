@@ -218,6 +218,12 @@
 ## Q
 
 ## R
+- [Rabbit Hole, The](https://blas.com/) - Top-quality summaries of some of the best books out there.
+  <details>
+    <summary>Preview</summary>
+    <img src="PREVIEWS/RabbitHoleThe_ketilmo.jpg">
+  </details>
+
 - [radio.garden](http://radio.garden/visit/chennai/jKelPaRC) - Listen to radio around the world
   <details>
     <summary>Preview</summary>
