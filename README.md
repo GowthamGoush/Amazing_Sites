@@ -183,6 +183,12 @@
     <img src="PREVIEWS/learnxinyminutes_kailas.JPG">
   </details>
 
+  - [Hotel in Boracay]( https://www.thelindhotels.com/) - Brochure site for Hotel in Boracay Philippines.
+  <details>
+    <summary>Preview</summary>
+    <img src="PREVIEWS/lindt.png">
+  </details>
+
 ## M
 - [MDN Web Docs](https://developer.mozilla.org/en-US/) - Official documentation repository for the web developers owned by Mozilla.
   <details>
