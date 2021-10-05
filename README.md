@@ -52,6 +52,11 @@
     <summary>Preview</summary>
     <img src="PREVIEWS/a_soft_murmur.jpg">
   </details>
+- [Atlas Obscura](https://www.atlasobscura.com/) - The definitive guide to the world’s hidden wonders.
+  <details>
+    <summary>Preview</summary>
+    <img src="PREVIEWS/AtlasObscura_ketilmo.jpg">
+  </details>  
 
 ## B
 
@@ -307,6 +312,12 @@
   <details>
     <summary>Preview</summary>
     <img src="PREVIEWS/whoismrrobot_0xquark.jpg">
+  </details>
+
+- [wttr](https://wttr.in/) - Provides Terminal Weather Forecast 
+  <details>
+    <summary>Preview</summary>
+    <img src="PREVIEWS/wttr_Mayank_Rawat.jpg">
   </details>
 
 ## X
