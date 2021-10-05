@@ -52,9 +52,8 @@
     <img src="PREVIEWS/a_soft_murmur.jpg">
   </details>
 
-
-
 ## B
+
 ## C
 - [CSS-Tricks](https://css-tricks.com/) - Everything for CSS!
   Daily articles about CSS, HTML, JavaScript, and all things related to web design and development.
