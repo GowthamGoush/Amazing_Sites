@@ -46,12 +46,23 @@
 
 ## A
 
+- [asdf](https://asdf-vm.com/) - A command line interface tool that manage multiple runtime versions.
+  <details>
+    <summary>Preview</summary>
+    <img src="PREVIEWS/asdf_Michelle-Lohwt.jpg">
+  </details>
+  
 - [A Soft Murmur](https://asoftmurmur.com) - A customizable white-noise machine website.
   It provides five different nature sounds: rain, thunder, waves, wind, and fire. This website is useful to reduce distraction and to focus more on work, or relax.
   <details>
     <summary>Preview</summary>
     <img src="PREVIEWS/a_soft_murmur.jpg">
   </details>
+- [Atlas Obscura](https://www.atlasobscura.com/) - The definitive guide to the world’s hidden wonders.
+  <details>
+    <summary>Preview</summary>
+    <img src="PREVIEWS/AtlasObscura_ketilmo.jpg">
+  </details>  
 
 ## B
 
@@ -68,7 +79,11 @@
     <summary>Preview</summary>
     <img src="PREVIEWS/Carbon_AnuragYadav.jpg">
   </details>
-
+- [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) - A set of rules for creating an explicit commit history. (Ex. `docs: correct spelling of CHANGELOG`)
+  <details>
+    <summary>Preview</summary>
+    <img src="PREVIEWS/conventional-commits_Michelle-Lohwt.jpg">
+  </details>
 - [CSS-Tricks](https://css-tricks.com/) - Everything for CSS!
   Daily articles about CSS, HTML, JavaScript, and all things related to web design and development.
   <details>
@@ -219,6 +234,10 @@
 
 ## N
 
+## O
+
+## P
+
 - [project-corona](https://swapnalshahil.github.io/project-corona/) - Track corona cases
   <details>
     <summary>Preview</summary>
@@ -284,6 +303,12 @@
 
 ## T
 
+- [TinEye](https://tineye.com/) is a reverse image search engine. You can submit an image to TinEye to find out where it came from, how it is being used, if modified versions of the image exist, or to find higher resolution versions. TinEye uses image recognition technology rather than keywords, metadata or watermarks.
+  <details>
+    <summary>Preview</summary>
+    <img src="PREVIEWS/TinEyes_LoneRanger.jpg">
+  </details>
+
 ## U
 
 ## V
@@ -306,6 +331,12 @@
   <details>
     <summary>Preview</summary>
     <img src="PREVIEWS/whoismrrobot_0xquark.jpg">
+  </details>
+
+- [wttr](https://wttr.in/) - Provides Terminal Weather Forecast 
+  <details>
+    <summary>Preview</summary>
+    <img src="PREVIEWS/wttr_Mayank_Rawat.jpg">
   </details>
 
 ## X
