@@ -60,6 +60,12 @@
   </details>
 
 ## C
+- [Carbon](https://dreamy-ptolemy-eb4e80.netlify.app/) - Create and share beautiful images of your source code in any programming or scripting language.
+  <details>
+    <summary>Preview</summary>
+    <img src="PREVIEWS/Carbon_AnuragYadav.jpg">
+  </details>
+
 - [CSS-Tricks](https://css-tricks.com/) - Everything for CSS!
   Daily articles about CSS, HTML, JavaScript, and all things related to web design and development.
   <details>
