@@ -53,6 +53,11 @@
   </details>
 
 ## B
+- [Boil The Frog](http://boilthefrog.playlistmachinery.com/) - Create a playlist of songs that moves seamlessly from one artist to another according to Spotify's artist similarity algorithm. (Ex. Justin Bieber to Jimi Hendrix, Miley Cyrus to Miles Davis, The Carter Family to Rammstein). 
+  <details>
+    <summary>Preview</summary>
+    <img src="PREVIEWS/BoilTheFrog_HannahWritesCode.jpg">
+  </details>
 
 ## C
 - [CSS-Tricks](https://css-tricks.com/) - Everything for CSS!
