@@ -240,6 +240,12 @@
     <img src="PREVIEWS/SmoothDocs_Ajinkya.jpg">
   </details>
 
+- [Software Library: MS-DOS Games](https://archive.org/details/softwarelibrary_msdos_games) - Play classic MS-DOS games straight in your web browser.
+  <details>
+    <summary>Preview</summary>
+    <img src="PREVIEWS/softwarelibrary_msdos_games_erlendmoland.jpg">
+  </details>
+
 - [Sound Of Colleagues](https://soundofcolleagues.com/#) - This website emulates the sound and ambiance of a workplace or an office, with fully customizable user experience. The motivation for this website comes from the fact that many people have been forced to work from home and miss the environment of an office.
   <details>
     <summary>Preview</summary>
