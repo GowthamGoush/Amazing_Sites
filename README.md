@@ -223,6 +223,11 @@
 ## O
 
 ## P
+- [Project Euler](https://projecteuler.net/archives) - Series of challenging mathematical/computer programming problems.
+  <details>
+    <summary>Preview</summary>
+    <img src="PREVIEWS/projecteuler_byt3h3ad.png">
+  </details>
 
 ## Q
 
