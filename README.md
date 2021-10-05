@@ -72,6 +72,11 @@
     <summary>Preview</summary>
     <img src="PREVIEWS/css-tricks_Arpit282.jpg">
   </details>
+-[Cheat.sh](https://cheat.sh/) - Easiest way to to get a cheat sheet and documentation(Also can be used on terminal).
+  <details>
+    <summary>Preview</summary>
+    <img src="PREVIEWS/Cheat-sh_JiteshKanojia.png">
+  </details> 
 
 ## D
 - [DSA_450](https://450dsa.com/) - If you're working on your DSA skills for interview prep, you would've definitely heard of [Love Babbar's curated list](https://drive.google.com/file/d/1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb/view) of 450 problems. This website helps you to keep track of your progress.
