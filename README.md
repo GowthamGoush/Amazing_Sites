@@ -217,6 +217,13 @@
     <summary>Preview</summary>
     <img src="PREVIEWS/SoundOfColleagues_Shinozaki1595.JPG">
   </details>
+
+- [Submarine Cable Map](https://www.submarinecablemap.com/) - A comprehensive and regularly updated interactive map of the world's major submarine cable systems and landing stations. It is regularly updated by TeleGeography.
+  <details>
+    <summary>Preview</summary>
+    <img src="PREVIEWS/submarinecablemap_deepu14d.jpg">
+  </details>
+
 ## T
 
 ## U
