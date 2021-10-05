@@ -52,6 +52,11 @@
     <summary>Preview</summary>
     <img src="PREVIEWS/a_soft_murmur.jpg">
   </details>
+- [Atlas Obscura](https://www.atlasobscura.com/) - The definitive guide to the world’s hidden wonders.
+  <details>
+    <summary>Preview</summary>
+    <img src="PREVIEWS/AtlasObscura_ketilmo.jpg">
+  </details>  
 
 ## B
 
