@@ -355,6 +355,13 @@
   </details>
 
 ## W
+
+- [Wayback Machine](https://archive.org/web/) - Explore billions of web pages saved over time.
+  <details>
+    <summary>Preview</summary>
+    <img src="PREVIEWS/WayBackMachine_EgonMarmol.jpg">
+  </details>
+  
 - [WindowSwap](https://www.window-swap.com/) - Allows you to visit random windows around the world
   <details>
     <summary>Preview</summary>
