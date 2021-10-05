@@ -18,7 +18,7 @@
 
 ### How can I add a website?
 
-1. Create an issue, with the title as website name, and in the description put a brief description of the website along with the link. 
+1. Create an issue, with the title as website name, and in the description put a brief description of the website along with the link.
 
 2. Fork the project.
 
@@ -45,6 +45,7 @@
 ---
 
 ## A
+
 - [A Soft Murmur](https://asoftmurmur.com) - A customizable white-noise machine website.
   It provides five different nature sounds: rain, thunder, waves, wind, and fire. This website is useful to reduce distraction and to focus more on work, or relax.
   <details>
@@ -53,13 +54,15 @@
   </details>
 
 ## B
-- [Boil The Frog](http://boilthefrog.playlistmachinery.com/) - Create a playlist of songs that moves seamlessly from one artist to another according to Spotify's artist similarity algorithm. (Ex. Justin Bieber to Jimi Hendrix, Miley Cyrus to Miles Davis, The Carter Family to Rammstein). 
+
+- [Boil The Frog](http://boilthefrog.playlistmachinery.com/) - Create a playlist of songs that moves seamlessly from one artist to another according to Spotify's artist similarity algorithm. (Ex. Justin Bieber to Jimi Hendrix, Miley Cyrus to Miles Davis, The Carter Family to Rammstein).
   <details>
     <summary>Preview</summary>
     <img src="PREVIEWS/BoilTheFrog_HannahWritesCode.jpg">
   </details>
 
 ## C
+
 - [Carbon](https://dreamy-ptolemy-eb4e80.netlify.app/) - Create and share beautiful images of your source code in any programming or scripting language.
   <details>
     <summary>Preview</summary>
@@ -72,8 +75,14 @@
     <summary>Preview</summary>
     <img src="PREVIEWS/css-tricks_Arpit282.jpg">
   </details>
+- [Cheat.sh](https://cheat.sh/) - Easiest way to to get a cheat sheet and documentation(Also can be used on terminal).
+  <details>
+    <summary>Preview</summary>
+    <img src="PREVIEWS/Cheat-sh_JiteshKanojia.png">
+  </details> 
 
 ## D
+
 - [DSA_450](https://450dsa.com/) - If you're working on your DSA skills for interview prep, you would've definitely heard of [Love Babbar's curated list](https://drive.google.com/file/d/1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb/view) of 450 problems. This website helps you to keep track of your progress.
   <details>
     <summary>Preview</summary>
@@ -90,9 +99,10 @@
   <details>
     <summary>Preview</summary>
     <img src="PREVIEWS\atcold.github.io_RajarshiDutta.jpg">
-  </details>  
+  </details>
 
 ## E
+
 - [Emupedia](https://emupedia.net/beta/emuos/) - Simulates several retro operating systems for educational purposes
   <details>
     <summary>Preview</summary>
@@ -100,6 +110,7 @@
   </details>
 
 ## F
+
 - [Free Rice](https://freerice.com/categories/english-vocabulary) - Answer triva questions to donate rice and help end world hunger!
   <details>
     <summary>Preview</summary>
@@ -111,7 +122,7 @@
     <summary>Preview</summary>
     <img src="PREVIEWS/futureme_RangarajB.jpg">
   </details>
-  
+
 ## G
 - [GeeksForGeeks](https://geeksforgeeks.org) - This website has the great resources to learn programming languages, Web-Development, App-Development, etc. You can also get the interview experiences of various companies on this website. They also have great DSA & interview preparation courses. And on top of that, they also have courses & free materials (MCQs , topic-explanatory blogs) for competitive exams like GATE. And overall it is a great website to help you to launch your career in Software Engineering.
   <details>
@@ -126,10 +137,16 @@
   </details>
 
 ## H
+
 - [HowStuffWorks](https://www.howstuffworks.com/) - This website is dedicated entirely to -- you guessed it -- how things work. And by "things," they mean everything: from airbags to regenerative medicine to velocipede carousels. They've covered so much on this website, it'll be hard to run out of things to read about.
   <details>
     <summary>Preview</summary>
     <img src="PREVIEWS/HowStuffWorks_Aditya.png">
+  </details>
+- [Heikei](https://haikei.app/) - Heikei is a web-based app that generates SVGs and background patterns. They can be used in a design project or with CSS. It comes with a set of pre-made designs which a user can edit as per their needs.
+  <details>
+    <summary>Preview</summary>
+    <img src="PREVIEWS/Heikei_Ritvik.jpg">
   </details>
 
 - [Humans 3d character](https://humans.wannathis.one/) - This website is dedicated entirely to provide developers with 2d and 3d models to implement them in their projects.
@@ -139,6 +156,7 @@
   </details>
 
 ## I
+
 - [IconScout](https://iconscout.com/) - Curated SVGs, Vector Icons, Illustrations, 3D graphics, and Lottie Animations. Over 4000+ new assets added every day. Integrated plugins, tools, editors, and more.
   <details>
     <summary>Preview</summary>
@@ -158,18 +176,21 @@
   </details>
 
 ## J
+
 - [Jitter.Video](https://jitter.video/) - desiigners handy way for motion design, a website where you can create animations and Export them as a GIF or a video all in your browser, cool tool for future animated posts for any one's social media or any personal project.
   <details>
     <summary>Preview</summary>
     <img src="PREVIEWS/JitterVideo_ShreyaSharma.jpg">
   </details>
-  
 - [joshwcomeau](https://www.joshwcomeau.com/) - It helps you learn all the technologies listed below with amazing animation and live Interaction. Which makes understanding the concept very simple.
   <details>
     <summary>Preview</summary>
     <img src="PREVIEWS/joshwcomeau_Vikas Tiwari.jpg">
   </details>
+
+
 ## K
+
 - [kottke.org](https://kottke.org/) - One of the oldest blogs on the web. It covers the essential people, inventions, performances, and ideas that increase the collective adjacent possible of humanity – through the eyes of Jason Kottke.
   <details>
     <summary>Preview</summary>
@@ -177,19 +198,19 @@
   </details>
 
 ## L
+
 - [Log2Base2](https://log2base2.com/) - Struggling to Learn programming, data structures & algorithms, and prepare for the interview, learn by visualizing the concepts.
   <details>
     <summary>Preview</summary>
     <img src="PREVIEWS/Log2Base2_AnuragYadav.jpg">
   </details>
 
-- [Learn x in y minutes]( https://learnxinyminutes.com/) - quickly grab programming language concepts. It is available in 23 languages.
   <details>
     <summary>Preview</summary>
     <img src="PREVIEWS/learnxinyminutes_kailas.JPG">
   </details>
-
 ## M
+
 - [MDN Web Docs](https://developer.mozilla.org/en-US/) - Official documentation repository for the web developers owned by Mozilla.
   <details>
     <summary>Preview</summary>
@@ -197,11 +218,13 @@
   </details>
 
 ## N
+
 - [project-corona](https://swapnalshahil.github.io/project-corona/) - Track corona cases
   <details>
     <summary>Preview</summary>
     <img src="PREVIEWS/project-corona.png">
   </details>
+
 ## O
 
 ## P
@@ -209,12 +232,12 @@
 ## Q
 
 ## R
+
 - [radio.garden](http://radio.garden/visit/chennai/jKelPaRC) - Listen to radio around the world
   <details>
     <summary>Preview</summary>
     <img src="PREVIEWS/radiogarden_RangarajB.JPG">
   </details>
-  
 - [Roadmap](https://roadmap.sh/) - It is a community effort to create roadmaps, guides and other educational content to help guide the developers in picking up the path and guide their learnings.
   <details>
     <summary>Preview</summary>
@@ -239,6 +262,12 @@
   <details>
     <summary>Preview</summary>
     <img src="PREVIEWS/SmoothDocs_Ajinkya.jpg">
+  </details>
+
+- [Software Library: MS-DOS Games](https://archive.org/details/softwarelibrary_msdos_games) - Play classic MS-DOS games straight in your web browser.
+  <details>
+    <summary>Preview</summary>
+    <img src="PREVIEWS/softwarelibrary_msdos_games_erlendmoland.jpg">
   </details>
 
 - [Sound Of Colleagues](https://soundofcolleagues.com/#) - This website emulates the sound and ambiance of a workplace or an office, with fully customizable user experience. The motivation for this website comes from the fact that many people have been forced to work from home and miss the environment of an office.
@@ -266,22 +295,25 @@
   </details>
 
 ## W
+
 - [WindowSwap](https://www.window-swap.com/) - Allows you to visit random windows around the world
   <details>
     <summary>Preview</summary>
     <img src="PREVIEWS/WindowSwap_RangarajB.jpg">
   </details>
 
-- [whoismrrobot](https://www.whoismrrobot.com/exit/) - This website consist of Exit Game played by Elliot Anderson in Famous T.V series Mr Robot ( season 4 ep 11 ) 
+- [whoismrrobot](https://www.whoismrrobot.com/exit/) - This website consist of Exit Game played by Elliot Anderson in Famous T.V series Mr Robot ( season 4 ep 11 )
   <details>
     <summary>Preview</summary>
     <img src="PREVIEWS/whoismrrobot_0xquark.jpg">
   </details>
+
 ## X
 
 ## Y
 
 ## Z
+
 - [z-library](https://1lib.in/) - The world's largest ebook library
   <details>
     <summary>Preview</summary>
