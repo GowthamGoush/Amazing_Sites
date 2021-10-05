@@ -51,6 +51,11 @@
     <summary>Preview</summary>
     <img src="PREVIEWS/a_soft_murmur.jpg">
   </details>
+- [Atlas Obscura](https://www.atlasobscura.com/) - The definitive guide to the world’s hidden wonders.
+  <details>
+    <summary>Preview</summary>
+    <img src="PREVIEWS/AtlasObscura_ketilmo.jpg">
+  </details>  
 
 ## B
 - [Boil The Frog](http://boilthefrog.playlistmachinery.com/) - Create a playlist of songs that moves seamlessly from one artist to another according to Spotify's artist similarity algorithm. (Ex. Justin Bieber to Jimi Hendrix, Miley Cyrus to Miles Davis, The Carter Family to Rammstein). 
