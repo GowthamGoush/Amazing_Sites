@@ -124,16 +124,18 @@
    <summary>Preview</summary>
    <img src="PREVIEWS/ERC_SamarthRaj.jpg">
  </details>
+
 - [Elements of AI](https://www.elementsofai.com/) - Free online AI courses that combine theory with practical exercises that you can complete at your own pace.
-  <details>
-    <summary>Preview</summary>
-    <img src="PREVIEWS/ElementsOfAI_erlendmoland.jpg">
-  </details>
+<details>
+  <summary>Preview</summary>
+  <img src="PREVIEWS/ElementsOfAI_erlendmoland.jpg">
+</details>
+
 - [Emupedia](https://emupedia.net/beta/emuos/) - Simulates several retro operating systems for educational purposes
-  <details>
-    <summary>Preview</summary>
-    <img src="PREVIEWS/Emupedia_Gowtham.jpg">
-  </details>
+<details>
+  <summary>Preview</summary>
+  <img src="PREVIEWS/Emupedia_Gowtham.jpg">
+</details>
 
 ## F
 
