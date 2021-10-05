@@ -308,7 +308,12 @@
   </details>
 
 ## T
-
+- [Teach Yourself Computer Science](https://teachyourselfcs.com/) - Some of the best resources out there to teach yourself computer science.
+  <details>
+    <summary>Preview</summary>
+    <img src="PREVIEWS/TYCS_erlendmoland.jpg">
+  </details>
+  
 - [TinEye](https://tineye.com/) is a reverse image search engine. You can submit an image to TinEye to find out where it came from, how it is being used, if modified versions of the image exist, or to find higher resolution versions. TinEye uses image recognition technology rather than keywords, metadata or watermarks.
   <details>
     <summary>Preview</summary>
