@@ -165,6 +165,12 @@
     <img src="PREVIEWS/humans character website.JPG">
   </details>
 
+- [Heikei](https://haikei.app/) - Heikei is a web-based app that generates SVGs and background patterns. They can be used in a design project or with CSS. It comes with a set of pre-made designs which a user can edit as per their needs.
+  <details>
+    <summary>Preview</summary>
+    <img src="PREVIEWS/Heikei_Ritvik.jpg">
+  </details>
+
 ## I
 - [IconScout](https://iconscout.com/) - Curated SVGs, Vector Icons, Illustrations, 3D graphics, and Lottie Animations. Over 4000+ new assets added every day. Integrated plugins, tools, editors, and more.
   <details>
