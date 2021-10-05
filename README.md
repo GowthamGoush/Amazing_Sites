@@ -53,8 +53,19 @@
   </details>
 
 ## B
+- [Boil The Frog](http://boilthefrog.playlistmachinery.com/) - Create a playlist of songs that moves seamlessly from one artist to another according to Spotify's artist similarity algorithm. (Ex. Justin Bieber to Jimi Hendrix, Miley Cyrus to Miles Davis, The Carter Family to Rammstein). 
+  <details>
+    <summary>Preview</summary>
+    <img src="PREVIEWS/BoilTheFrog_HannahWritesCode.jpg">
+  </details>
 
 ## C
+- [Carbon](https://dreamy-ptolemy-eb4e80.netlify.app/) - Create and share beautiful images of your source code in any programming or scripting language.
+  <details>
+    <summary>Preview</summary>
+    <img src="PREVIEWS/Carbon_AnuragYadav.jpg">
+  </details>
+
 - [CSS-Tricks](https://css-tricks.com/) - Everything for CSS!
   Daily articles about CSS, HTML, JavaScript, and all things related to web design and development.
   <details>
@@ -74,6 +85,12 @@
     <summary>Preview</summary>
     <img src="PREVIEWS/dev.to_Devyani_Jain.jpg">
   </details>
+
+- [Deep Learning](https://atcold.github.io/pytorch-Deep-Learning/) - An excellent website for deep learning enthusiasts which covers deep learning concepts starting from basics to advanced with implementations. It also supports multiple themes for better focus.
+  <details>
+    <summary>Preview</summary>
+    <img src="PREVIEWS\atcold.github.io_RajarshiDutta.jpg">
+  </details>  
 
 ## E
 - [Emupedia](https://emupedia.net/beta/emuos/) - Simulates several retro operating systems for educational purposes
@@ -116,11 +133,18 @@
   </details>
 
 ## I
+- [IconScout](https://iconscout.com/) - Curated SVGs, Vector Icons, Illustrations, 3D graphics, and Lottie Animations. Over 4000+ new assets added every day. Integrated plugins, tools, editors, and more.
+  <details>
+    <summary>Preview</summary>
+    <img src="PREVIEWS/Iconscout_AnuragYadav.jpg">
+  </details>
+
 - [interneting-is-hard](https://www.internetingishard.com/) - A html/css tutorial site for beginners to quickly learn.
   <details>
     <summary>Preview</summary>
     <img src="PREVIEWS/internetingishard_kailas.JPG">
   </details>
+
 - [Internet Live Stats](https://www.internetlivestats.com/) - Watch the Internet as it grows in real time!
   <details>
     <summary>Preview</summary>
@@ -132,6 +156,12 @@
   <details>
     <summary>Preview</summary>
     <img src="PREVIEWS/JitterVideo_ShreyaSharma.jpg">
+  </details>
+  
+- [joshwcomeau](https://www.joshwcomeau.com/) - It helps you learn all the technologies listed below with amazing animation and live Interaction. Which makes understanding the concept very simple.
+  <details>
+    <summary>Preview</summary>
+    <img src="PREVIEWS/joshwcomeau_Vikas Tiwari.jpg">
   </details>
 ## K
 - [kottke.org](https://kottke.org/) - One of the oldest blogs on the web. It covers the essential people, inventions, performances, and ideas that increase the collective adjacent possible of humanity – through the eyes of Jason Kottke.
@@ -164,7 +194,11 @@
   </details>
 
 ## N
-
+- [project-corona](https://swapnalshahil.github.io/project-corona/) - Track corona cases
+  <details>
+    <summary>Preview</summary>
+    <img src="PREVIEWS/project-corona.png">
+  </details>
 ## O
 
 ## P
@@ -202,6 +236,18 @@
   <details>
     <summary>Preview</summary>
     <img src="PREVIEWS/SmoothDocs_Ajinkya.jpg">
+  </details>
+
+- [Sound Of Colleagues](https://soundofcolleagues.com/#) - This website emulates the sound and ambiance of a workplace or an office, with fully customizable user experience. The motivation for this website comes from the fact that many people have been forced to work from home and miss the environment of an office.
+  <details>
+    <summary>Preview</summary>
+    <img src="PREVIEWS/SoundOfColleagues_Shinozaki1595.JPG">
+  </details>
+
+- [Submarine Cable Map](https://www.submarinecablemap.com/) - A comprehensive and regularly updated interactive map of the world's major submarine cable systems and landing stations. It is regularly updated by TeleGeography.
+  <details>
+    <summary>Preview</summary>
+    <img src="PREVIEWS/submarinecablemap_deepu14d.jpg">
   </details>
 
 ## T
