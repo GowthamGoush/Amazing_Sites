@@ -144,6 +144,12 @@
     <summary>Preview</summary>
     <img src="PREVIEWS/freecodecamp_biraj.png">
   </details>
+
+- [Frontend Mentor](https://www.frontendmentor.io/) - Solve real-world HTML, CSS and JavaScript challenges whilst working to professional designs. Join 228,004 developers building projects, reviewing code, and helping each other get better.
+  <details>
+    <summary>Preview</summary>
+    <img src="PREVIEWS/frontendmentor_nikkuv.png">
+  </details>
   
 ## G
 - [Gravity-Points](https://codepen.io/akm2/full/rHIsa) - The more gravity centers you plot, the more these forces will start to compete, making your screen all the more chaotic. And yes, your gravity points can absorb one another to create a black hole. It's outer space right there on your computer screen.
