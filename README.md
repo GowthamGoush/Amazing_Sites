@@ -287,6 +287,14 @@
     <summary>Preview</summary>
     <img src="PREVIEWS/whoismrrobot_0xquark.jpg">
   </details>
+  
+- [wttr](https://wttr.in/) - Provides Terminal Weather Forecast 
+  <details>
+    <summary>Preview</summary>
+    <img src="PREVIEWS/wttr_Mayank_Rawat.jpg">
+  </details>
+
+
 ## X
 
 ## Y
