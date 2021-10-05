@@ -243,7 +243,7 @@
     <img src="PREVIEWS/MDN Web Docs_ArchanaDash.jpg">
   </details>
 
-  - [MyFridgeFood](https://myfridgefood.com/) - On this site, you can check off the food you have in your fridge and it will generate a list of recipes you can make with them. It's handy for when you're stuck and don't know what to cook.
+- [MyFridgeFood](https://myfridgefood.com/) - On this site, you can check off the food you have in your fridge and it will generate a list of recipes you can make with them. It's handy for when you're stuck and don't know what to cook.
   <details>
     <summary>Preview</summary>
     <img src="PREVIEWS/myfridgefood_phoebeireland.jpg">
