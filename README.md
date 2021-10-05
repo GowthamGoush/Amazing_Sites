@@ -199,6 +199,11 @@
   </details>
   
 ## K
+- [Khan Academy](https://www.khanacademy.org/) - Learn (almost) anything, for free!
+  <details>
+    <summary>Preview</summary>
+    <img src="PREVIEWS/KhanAcademy_erlendmoland.jpg">
+  </details>
 - [kottke.org](https://kottke.org/) - One of the oldest blogs on the web. It covers the essential people, inventions, performances, and ideas that increase the collective adjacent possible of humanity – through the eyes of Jason Kottke.
   <details>
     <summary>Preview</summary>
