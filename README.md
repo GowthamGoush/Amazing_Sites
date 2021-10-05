@@ -172,7 +172,11 @@
   </details>
 
 ## N
-
+- [project-corona](https://swapnalshahil.github.io/project-corona/) - Track corona cases
+  <details>
+    <summary>Preview</summary>
+    <img src="PREVIEWS/project-corona.png">
+  </details>
 ## O
 
 ## P
