@@ -96,7 +96,7 @@
     <img src="PREVIEWS/css-tricks_Arpit282.jpg">
   </details>
   
--[calligraphr](https://www.calligraphr.com/) - transform your handwriting into a real font.
+- [calligraphr](https://www.calligraphr.com/) - transform your handwriting into a real font.
   <details>
     <summary>Preview</summary>
     <img src="PREVIEWS/calligraphr_0xquark.jpg">
