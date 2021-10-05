@@ -178,6 +178,7 @@
     <img src="PREVIEWS/joshwcomeau_Vikas Tiwari.jpg">
   </details>
 
+
 ## K
 
 - [kottke.org](https://kottke.org/) - One of the oldest blogs on the web. It covers the essential people, inventions, performances, and ideas that increase the collective adjacent possible of humanity – through the eyes of Jason Kottke.
@@ -194,12 +195,10 @@
     <img src="PREVIEWS/Log2Base2_AnuragYadav.jpg">
   </details>
 
-- [Learn x in y minutes](https://learnxinyminutes.com/) - quickly grab programming language concepts. It is available in 23 languages.
   <details>
     <summary>Preview</summary>
     <img src="PREVIEWS/learnxinyminutes_kailas.JPG">
   </details>
-
 ## M
 
 - [MDN Web Docs](https://developer.mozilla.org/en-US/) - Official documentation repository for the web developers owned by Mozilla.
