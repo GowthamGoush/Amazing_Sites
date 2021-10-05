@@ -75,6 +75,11 @@
     <summary>Preview</summary>
     <img src="PREVIEWS/css-tricks_Arpit282.jpg">
   </details>
+- [Cheat.sh](https://cheat.sh/) - Easiest way to to get a cheat sheet and documentation(Also can be used on terminal).
+  <details>
+    <summary>Preview</summary>
+    <img src="PREVIEWS/Cheat-sh_JiteshKanojia.png">
+  </details> 
 
 ## D
 
