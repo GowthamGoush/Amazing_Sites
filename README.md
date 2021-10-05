@@ -163,6 +163,13 @@
     <summary>Preview</summary>
     <img src="PREVIEWS/joshwcomeau_Vikas Tiwari.jpg">
   </details>
+
+- [javascript.info](https://javascript.info/) - It is an amazing website to learn modern javascript. The course is well explained. You can learn from basic to advance topics in JS
+  <details>
+    <summary>Preview</summary>
+    <img src="PREVIEWS/JavascriptInfo_MaxR522.jpg">
+  </details>
+  
 ## K
 - [kottke.org](https://kottke.org/) - One of the oldest blogs on the web. It covers the essential people, inventions, performances, and ideas that increase the collective adjacent possible of humanity – through the eyes of Jason Kottke.
   <details>
