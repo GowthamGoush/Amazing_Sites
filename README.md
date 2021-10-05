@@ -141,18 +141,21 @@
   </details>
 
 ## L
+- [LMGTFY - Let Me Google That For You](https://lmgtfy.app) - Tired of people who ask you about stuff they can easily Google? Try this app.
+  <details>
+    <summary>Preview</summary>
+    <img src="PREVIEWS/LMGTFY_KetilMo.jpg">
+  </details>
 - [Log2Base2](https://log2base2.com/) - Struggling to Learn programming, data structures & algorithms, and prepare for the interview, learn by visualizing the concepts.
   <details>
     <summary>Preview</summary>
     <img src="PREVIEWS/Log2Base2_AnuragYadav.jpg">
   </details>
-
 - [Learn x in y minutes]( https://learnxinyminutes.com/) - quickly grab programming language concepts. It is available in 23 languages.
   <details>
     <summary>Preview</summary>
     <img src="PREVIEWS/learnxinyminutes_kailas.JPG">
   </details>
-
 ## M
 - [MDN Web Docs](https://developer.mozilla.org/en-US/) - Official documentation repository for the web developers owned by Mozilla.
   <details>
