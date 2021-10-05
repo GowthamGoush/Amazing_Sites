@@ -66,6 +66,11 @@
     <img src="PREVIEWS/Carbon_AnuragYadav.jpg">
   </details>
 
+- [Coggle](https://coggle.it/) - Create full roadmap for your project and schemas.
+  <details>
+    <summary>Preview</summary>
+    <img src="PREVIEWS/coggle.png">
+  </details>
 - [CSS-Tricks](https://css-tricks.com/) - Everything for CSS!
   Daily articles about CSS, HTML, JavaScript, and all things related to web design and development.
   <details>
