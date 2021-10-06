@@ -157,6 +157,12 @@
   </details>
   
 ## G
+- [GeeksForGeeks](https://geeksforgeeks.org) - This website has the great resources to learn programming languages, Web-Development, App-Development, etc. You can also get the interview experiences of various companies on this website. They also have great DSA & interview preparation courses. And on top of that, they also have courses & free materials (MCQs , topic-explanatory blogs) for competitive exams like GATE. And overall it is a great website to help you to launch your career in Software Engineering.
+  <details>
+    <summary>Preview</summary>
+    <img src="PREVIEWS/GeeksforGeeks_omkar342.jpg">
+  </details>
+
 - [Gravity-Points](https://codepen.io/akm2/full/rHIsa) - The more gravity centers you plot, the more these forces will start to compete, making your screen all the more chaotic. And yes, your gravity points can absorb one another to create a black hole. It's outer space right there on your computer screen.
   <details>
     <summary>Preview</summary>
