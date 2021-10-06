@@ -79,22 +79,37 @@
     <summary>Preview</summary>
     <img src="PREVIEWS/Carbon_AnuragYadav.jpg">
   </details>
+
+- [Coggle](https://coggle.it/) - Create full roadmap for your project and schemas.
+  <details>
+    <summary>Preview</summary>
+    <img src="PREVIEWS/coggle.png">
+  </details>
+  
 - [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) - A set of rules for creating an explicit commit history. (Ex. `docs: correct spelling of CHANGELOG`)
   <details>
     <summary>Preview</summary>
     <img src="PREVIEWS/conventional-commits_Michelle-Lohwt.jpg">
   </details>
+
 - [CSS-Tricks](https://css-tricks.com/) - Everything for CSS!
   Daily articles about CSS, HTML, JavaScript, and all things related to web design and development.
   <details>
     <summary>Preview</summary>
     <img src="PREVIEWS/css-tricks_Arpit282.jpg">
   </details>
+
 - [Cheat.sh](https://cheat.sh/) - Easiest way to to get a cheat sheet and documentation(Also can be used on terminal).
   <details>
     <summary>Preview</summary>
     <img src="PREVIEWS/Cheat-sh_JiteshKanojia.png">
   </details> 
+  
+- [calligraphr](https://www.calligraphr.com/) - transform your handwriting into a real font.
+  <details>
+    <summary>Preview</summary>
+    <img src="PREVIEWS/calligraphr_0xquark.jpg">
+  </details>
 
 ## D
 
@@ -118,10 +133,21 @@
 
 ## E
 
+- [Elements of AI](https://www.elementsofai.com/) - Free online AI courses that combine theory with practical exercises that you can complete at your own pace.
+  <details>
+    <summary>Preview</summary>
+    <img src="PREVIEWS/ElementsOfAI_erlendmoland.jpg">
+  </details>
+
 - [Emupedia](https://emupedia.net/beta/emuos/) - Simulates several retro operating systems for educational purposes
   <details>
     <summary>Preview</summary>
     <img src="PREVIEWS/Emupedia_Gowtham.jpg">
+  </details>
+- [Exchange Rate Calculator](https://samarthraj11.github.io/Basic-Projects/exchangeRateCalculator/) - This calculates the real-time exchange value of currencies by making API calls.
+  <details>
+    <summary>Preview</summary>
+    <img src="PREVIEWS/ERC_SamarthRaj.jpg">
   </details>
 
 ## F
@@ -138,6 +164,12 @@
     <img src="PREVIEWS/futureme_RangarajB.jpg">
   </details>
 
+- [FreeCodeCamp](https://www.freecodecamp.org/) - Learn to code for free, build projects, earn certifications. FreeCodeCamp is a non-profit organization that consists of an interactive learning web platform, an online community forum, chat rooms, online publications and local organizations that intend to make learning web development accessible to anyone
+  <details>
+    <summary>Preview</summary>
+    <img src="PREVIEWS/freecodecamp_biraj.png">
+  </details>
+  
 ## G
 - [GeeksForGeeks](https://geeksforgeeks.org) - This website has the great resources to learn programming languages, Web-Development, App-Development, etc. You can also get the interview experiences of various companies on this website. They also have great DSA & interview preparation courses. And on top of that, they also have courses & free materials (MCQs , topic-explanatory blogs) for competitive exams like GATE. And overall it is a great website to help you to launch your career in Software Engineering.
   <details>
@@ -152,6 +184,12 @@
   </details>
 
 ## H
+
+- [Hackerrank](https://www.hackerrank.com/) - Hackerank is a learning platform. It provides a platform to get knowledge about several skills. It also provides free certification and interview preparation kit.
+  <details>
+    <summary>Preview</summary>
+    <img src="PREVIEWS/Hackerrank_AnweshaBanyopadhyay.png">
+  </details>
 
 - [HowStuffWorks](https://www.howstuffworks.com/) - This website is dedicated entirely to -- you guessed it -- how things work. And by "things," they mean everything: from airbags to regenerative medicine to velocipede carousels. They've covered so much on this website, it'll be hard to run out of things to read about.
   <details>
@@ -168,6 +206,12 @@
   <details>
     <summary>Preview</summary>
     <img src="PREVIEWS/humans character website.JPG">
+  </details>
+
+- [Heikei](https://haikei.app/) - Heikei is a web-based app that generates SVGs and background patterns. They can be used in a design project or with CSS. It comes with a set of pre-made designs which a user can edit as per their needs.
+  <details>
+    <summary>Preview</summary>
+    <img src="PREVIEWS/Heikei_Ritvik.jpg">
   </details>
 
 ## I
@@ -206,6 +250,12 @@
 
 ## K
 
+- [Khan Academy](https://www.khanacademy.org/) - Learn (almost) anything, for free!
+  <details>
+    <summary>Preview</summary>
+    <img src="PREVIEWS/KhanAcademy_erlendmoland.jpg">
+  </details>
+
 - [kottke.org](https://kottke.org/) - One of the oldest blogs on the web. It covers the essential people, inventions, performances, and ideas that increase the collective adjacent possible of humanity – through the eyes of Jason Kottke.
   <details>
     <summary>Preview</summary>
@@ -224,12 +274,23 @@
     <summary>Preview</summary>
     <img src="PREVIEWS/learnxinyminutes_kailas.JPG">
   </details>
+  - [Laracasts]( https://laracasts.com/) - Push your web development skills to the next level, through expert screencasts on Laravel, Vue, and so much more.
+  <details>
+    <summary>Preview</summary>
+    <img src="PREVIEWS/laracasts_capriz.png">
+  </details>
 ## M
 
 - [MDN Web Docs](https://developer.mozilla.org/en-US/) - Official documentation repository for the web developers owned by Mozilla.
   <details>
     <summary>Preview</summary>
     <img src="PREVIEWS/MDN Web Docs_ArchanaDash.jpg">
+  </details>
+
+- [MyFridgeFood](https://myfridgefood.com/) - On this site, you can check off the food you have in your fridge and it will generate a list of recipes you can make with them. It's handy for when you're stuck and don't know what to cook.
+  <details>
+    <summary>Preview</summary>
+    <img src="PREVIEWS/myfridgefood_phoebeireland.jpg">
   </details>
 
 ## N
@@ -248,6 +309,16 @@
 
 ## P
 
+## Q
+
+## R
+
+- [Project Euler](https://projecteuler.net/archives) - Series of challenging mathematical/computer programming problems.
+  <details>
+    <summary>Preview</summary>
+    <img src="PREVIEWS/projecteuler_byt3h3ad.png">
+  </details> 
+  
 ## Q
 
 ## R
@@ -302,7 +373,12 @@
   </details>
 
 ## T
-
+- [Teach Yourself Computer Science](https://teachyourselfcs.com/) - Some of the best resources out there to teach yourself computer science.
+  <details>
+    <summary>Preview</summary>
+    <img src="PREVIEWS/TYCS_erlendmoland.jpg">
+  </details>
+  
 - [TinEye](https://tineye.com/) is a reverse image search engine. You can submit an image to TinEye to find out where it came from, how it is being used, if modified versions of the image exist, or to find higher resolution versions. TinEye uses image recognition technology rather than keywords, metadata or watermarks.
   <details>
     <summary>Preview</summary>
