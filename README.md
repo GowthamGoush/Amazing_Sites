@@ -114,7 +114,7 @@
 - [C# Corner](https://www.c-sharpcorner.com/) - Community of Software and Data Developers, and also you can share the knowledge in the form of articles, blogs, videos etc.
   <details>
     <summary>Preview</summary>
-    <img src="PREVIEWS/C#_Corner_Jeetendra-Gund.jpg">
+    <img src="PREVIEWS/Csharp_Corner_Jeetendra_Gund.jpg">
   </details>
 
 ## D
