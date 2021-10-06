@@ -310,6 +310,12 @@
     <summary>Preview</summary>
     <img src="PREVIEWS/projecteuler_byt3h3ad.png">
   </details> 
+
+- [Photopea](https://www.photopea.com/) - Photopea is an advanced image editor, alternative to Adobe Photoshop. It is a web-based raster and vector graphics editor used for image editing, making illustrations, web design, or converting between different image formats. It supports advanced image formats from other renowned photo editing softwares.
+  <details>
+    <summary>Preview</summary>
+    <img src="PREVIEWS/Photopea_AryanKashyap.png">
+  </details>
   
 ## Q
 
