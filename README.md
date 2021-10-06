@@ -18,7 +18,7 @@
 
 ### How can I add a website?
 
-1. Create an issue, with the title as website name, and in the description put a brief description of the website along with the link. 
+1. Create an issue, with the title as website name, and in the description put a brief description of the website along with the link.
 
 2. Fork the project.
 
@@ -45,6 +45,7 @@
 ---
 
 ## A
+
 - [asdf](https://asdf-vm.com/) - A command line interface tool that manage multiple runtime versions.
   <details>
     <summary>Preview</summary>
@@ -60,22 +61,23 @@
   <details>
     <summary>Preview</summary>
     <img src="PREVIEWS/AtlasObscura_ketilmo.jpg">
-  </details>  
+  </details>
 
 ## B
-- [Boil The Frog](http://boilthefrog.playlistmachinery.com/) - Create a playlist of songs that moves seamlessly from one artist to another according to Spotify's artist similarity algorithm. (Ex. Justin Bieber to Jimi Hendrix, Miley Cyrus to Miles Davis, The Carter Family to Rammstein). 
+
+- [Boil The Frog](http://boilthefrog.playlistmachinery.com/) - Create a playlist of songs that moves seamlessly from one artist to another according to Spotify's artist similarity algorithm. (Ex. Justin Bieber to Jimi Hendrix, Miley Cyrus to Miles Davis, The Carter Family to Rammstein).
   <details>
     <summary>Preview</summary>
     <img src="PREVIEWS/BoilTheFrog_HannahWritesCode.jpg">
   </details>
 
 ## C
+
 - [Carbon](https://dreamy-ptolemy-eb4e80.netlify.app/) - Create and share beautiful images of your source code in any programming or scripting language.
   <details>
     <summary>Preview</summary>
     <img src="PREVIEWS/Carbon_AnuragYadav.jpg">
   </details>
-  
 - [Code Chef](https://www.codechef.com/) - CodeChef is a platform to help programmers make it big in the world of algorithms, computer programming, and programming contests. It hosts three featured contests every month (Long Challenge, CookOff, LunchTime & Starters) and gives away prizes and goodies to the winners as encouragement.
   <details>
    <summary>Preview</summary>
@@ -87,7 +89,6 @@
     <summary>Preview</summary>
     <img src="PREVIEWS/coggle.png">
   </details>
-  
 - [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) - A set of rules for creating an explicit commit history. (Ex. `docs: correct spelling of CHANGELOG`)
   <details>
     <summary>Preview</summary>
@@ -100,7 +101,6 @@
     <summary>Preview</summary>
     <img src="PREVIEWS/css-tricks_Arpit282.jpg">
   </details>
-  
 - [calligraphr](https://www.calligraphr.com/) - transform your handwriting into a real font.
   <details>
     <summary>Preview</summary>
@@ -113,6 +113,7 @@
   </details>
 
 ## D
+
 - [DSA_450](https://450dsa.com/) - If you're working on your DSA skills for interview prep, you would've definitely heard of [Love Babbar's curated list](https://drive.google.com/file/d/1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb/view) of 450 problems. This website helps you to keep track of your progress.
   <details>
     <summary>Preview</summary>
@@ -129,9 +130,10 @@
   <details>
     <summary>Preview</summary>
     <img src="PREVIEWS\atcold.github.io_RajarshiDutta.jpg">
-  </details>  
+  </details>
 
 ## E
+
 - [Elements of AI](https://www.elementsofai.com/) - Free online AI courses that combine theory with practical exercises that you can complete at your own pace.
   <details>
     <summary>Preview</summary>
@@ -149,6 +151,7 @@
   </details>
 
 ## F
+
 - [Free Rice](https://freerice.com/categories/english-vocabulary) - Answer triva questions to donate rice and help end world hunger!
   <details>
     <summary>Preview</summary>
@@ -166,8 +169,9 @@
     <summary>Preview</summary>
     <img src="PREVIEWS/freecodecamp_biraj.png">
   </details>
-  
+
 ## G
+
 - [Gravity-Points](https://codepen.io/akm2/full/rHIsa) - The more gravity centers you plot, the more these forces will start to compete, making your screen all the more chaotic. And yes, your gravity points can absorb one another to create a black hole. It's outer space right there on your computer screen.
   <details>
     <summary>Preview</summary>
@@ -175,6 +179,7 @@
   </details>
 
 ## H
+
 - [Hackerrank](https://www.hackerrank.com/) - Hackerank is a learning platform. It provides a platform to get knowledge about several skills. It also provides free certification and interview preparation kit.
   <details>
     <summary>Preview</summary>
@@ -200,6 +205,7 @@
   </details>
 
 ## I
+
 - [IconScout](https://iconscout.com/) - Curated SVGs, Vector Icons, Illustrations, 3D graphics, and Lottie Animations. Over 4000+ new assets added every day. Integrated plugins, tools, editors, and more.
   <details>
     <summary>Preview</summary>
@@ -217,7 +223,6 @@
     <summary>Preview</summary>
     <img src="PREVIEWS/InternetLiveStats_ketilmo.jpg">
   </details>
-  
 - [Itch.io](https://itch.io/) - An open marketplace for independent digital creators with a focus on independent video games.
   <details>
     <summary>Preview</summary>
@@ -225,12 +230,12 @@
   </details>
 
 ## J
+
 - [Jitter.Video](https://jitter.video/) - desiigners handy way for motion design, a website where you can create animations and Export them as a GIF or a video all in your browser, cool tool for future animated posts for any one's social media or any personal project.
   <details>
     <summary>Preview</summary>
     <img src="PREVIEWS/JitterVideo_ShreyaSharma.jpg">
   </details>
-  
 - [joshwcomeau](https://www.joshwcomeau.com/) - It helps you learn all the technologies listed below with amazing animation and live Interaction. Which makes understanding the concept very simple.
   <details>
     <summary>Preview</summary>
@@ -242,8 +247,9 @@
     <summary>Preview</summary>
     <img src="PREVIEWS/JavascriptInfo_MaxR522.jpg">
   </details>
-  
+
 ## K
+
 - [Khan Academy](https://www.khanacademy.org/) - Learn (almost) anything, for free!
   <details>
     <summary>Preview</summary>
@@ -256,6 +262,7 @@
   </details>
 
 ## L
+
 - [LMGTFY - Let Me Google That For You](https://lmgtfy.app) - Tired of people who ask you about stuff they can easily Google? Try this app.
   <details>
     <summary>Preview</summary>
@@ -266,7 +273,7 @@
     <summary>Preview</summary>
     <img src="PREVIEWS/Log2Base2_AnuragYadav.jpg">
   </details>
-- [Learn x in y minutes]( https://learnxinyminutes.com/) - quickly grab programming language concepts. It is available in 23 languages.
+- [Learn x in y minutes](https://learnxinyminutes.com/) - quickly grab programming language concepts. It is available in 23 languages.
   <details>
     <summary>Preview</summary>
     <img src="PREVIEWS/learnxinyminutes_kailas.JPG">
@@ -276,7 +283,9 @@
     <summary>Preview</summary>
     <img src="PREVIEWS/laracasts_capriz.png">
   </details>
+
 ## M
+
 - [MDN Web Docs](https://developer.mozilla.org/en-US/) - Official documentation repository for the web developers owned by Mozilla.
   <details>
     <summary>Preview</summary>
@@ -294,21 +303,28 @@
 ## O
 
 ## P
+
+- [Photopea](https://www.photopea.com/) - Photopea is an advanced image editor, alternative to Adobe Photoshop. It is a web-based raster and vector graphics editor used for image editing, making illustrations, web design, or converting between different image formats. It supports advanced image formats from other renowned photo editing softwares.
+  <details>
+    <summary>Preview</summary>
+    <img src="PREVIEWS/Photopea_AryanKashyap.png">
+  </details>
+
 - [project-corona](https://swapnalshahil.github.io/project-corona/) - Track corona cases
   <details>
     <summary>Preview</summary>
     <img src="PREVIEWS/project-corona.png">
   </details>
-  
 - [Project Euler](https://projecteuler.net/archives) - Series of challenging mathematical/computer programming problems.
   <details>
     <summary>Preview</summary>
     <img src="PREVIEWS/projecteuler_byt3h3ad.png">
-  </details> 
-  
+  </details>
+
 ## Q
 
 ## R
+
 - [Rabbit Hole](https://blas.com/) - Top-quality summaries of some of the best books out there.
   <details>
     <summary>Preview</summary>
@@ -320,7 +336,6 @@
     <summary>Preview</summary>
     <img src="PREVIEWS/radiogarden_RangarajB.JPG">
   </details>
-  
 - [Roadmap](https://roadmap.sh/) - It is a community effort to create roadmaps, guides and other educational content to help guide the developers in picking up the path and guide their learnings.
   <details>
     <summary>Preview</summary>
@@ -366,12 +381,12 @@
   </details>
 
 ## T
+
 - [Teach Yourself Computer Science](https://teachyourselfcs.com/) - Some of the best resources out there to teach yourself computer science.
   <details>
     <summary>Preview</summary>
     <img src="PREVIEWS/TYCS_erlendmoland.jpg">
   </details>
-  
 - [TinEye](https://tineye.com/) is a reverse image search engine. You can submit an image to TinEye to find out where it came from, how it is being used, if modified versions of the image exist, or to find higher resolution versions. TinEye uses image recognition technology rather than keywords, metadata or watermarks.
   <details>
     <summary>Preview</summary>
@@ -395,31 +410,29 @@
     <summary>Preview</summary>
     <img src="PREVIEWS/WayBackMachine_EgonMarmol.jpg">
   </details>
-  
 - [WindowSwap](https://www.window-swap.com/) - Allows you to visit random windows around the world
   <details>
     <summary>Preview</summary>
     <img src="PREVIEWS/WindowSwap_RangarajB.jpg">
   </details>
 
-- [whoismrrobot](https://www.whoismrrobot.com/exit/) - This website consist of Exit Game played by Elliot Anderson in Famous T.V series Mr Robot ( season 4 ep 11 ) 
+- [whoismrrobot](https://www.whoismrrobot.com/exit/) - This website consist of Exit Game played by Elliot Anderson in Famous T.V series Mr Robot ( season 4 ep 11 )
   <details>
     <summary>Preview</summary>
     <img src="PREVIEWS/whoismrrobot_0xquark.jpg">
   </details>
-  
-- [wttr](https://wttr.in/) - Provides Terminal Weather Forecast 
+- [wttr](https://wttr.in/) - Provides Terminal Weather Forecast
   <details>
     <summary>Preview</summary>
     <img src="PREVIEWS/wttr_Mayank_Rawat.jpg">
   </details>
-
 
 ## X
 
 ## Y
 
 ## Z
+
 - [z-library](https://1lib.in/) - The world's largest ebook library
   <details>
     <summary>Preview</summary>
