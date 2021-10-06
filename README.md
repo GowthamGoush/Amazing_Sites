@@ -131,6 +131,11 @@
     <summary>Preview</summary>
     <img src="PREVIEWS/Emupedia_Gowtham.jpg">
   </details>
+- [Exchange Rate Calculator](https://samarthraj11.github.io/Basic-Projects/exchangeRateCalculator/) - This calculates the real-time exchange value of currencies by making API calls.
+  <details>
+    <summary>Preview</summary>
+    <img src="PREVIEWS/ERC_SamarthRaj.jpg">
+  </details>
 
 ## F
 - [Free Rice](https://freerice.com/categories/english-vocabulary) - Answer triva questions to donate rice and help end world hunger!
