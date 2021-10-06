@@ -56,6 +56,11 @@
     <summary>Preview</summary>
     <img src="PREVIEWS/a_soft_murmur.jpg">
   </details>
+- [Astronomy Picture of the Day](https://apod.nasa.gov/apod/astropix.html) - Discover a different image of our universe every day.
+  <details>
+    <summary>Preview</summary>
+    <img src="PREVIEWS/AstronomyPictureOfTheDay_EgonMarmol.jpg">
+  </details>  
 - [Atlas Obscura](https://www.atlasobscura.com/) - The definitive guide to the world’s hidden wonders.
   <details>
     <summary>Preview</summary>
