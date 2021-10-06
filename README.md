@@ -207,7 +207,7 @@
     <img src="PREVIEWS/InternetLiveStats_ketilmo.jpg">
   </details>
   
-  - [Itch.io](https://itch.io/) - An open marketplace for independent digital creators with a focus on independent video games.
+- [Itch.io](https://itch.io/) - An open marketplace for independent digital creators with a focus on independent video games.
   <details>
     <summary>Preview</summary>
     <img src="PREVIEWS/itchio_RitinGeorge.jpg">
