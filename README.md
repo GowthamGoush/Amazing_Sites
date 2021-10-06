@@ -100,6 +100,12 @@
     <summary>Preview</summary>
     <img src="PREVIEWS/css-tricks_Arpit282.jpg">
   </details>
+  
+- [calligraphr](https://www.calligraphr.com/) - transform your handwriting into a real font.
+  <details>
+    <summary>Preview</summary>
+    <img src="PREVIEWS/calligraphr_0xquark.jpg">
+  </details>
 
 ## D
 - [DSA_450](https://450dsa.com/) - If you're working on your DSA skills for interview prep, you would've definitely heard of [Love Babbar's curated list](https://drive.google.com/file/d/1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb/view) of 450 problems. This website helps you to keep track of your progress.
@@ -159,6 +165,12 @@
   </details>
 
 ## H
+- [Hackerrank](https://www.hackerrank.com/) - Hackerank is a learning platform. It provides a platform to get knowledge about several skills. It also provides free certification and interview preparation kit.
+  <details>
+    <summary>Preview</summary>
+    <img src="PREVIEWS/Hackerrank_AnweshaBanyopadhyay.png">
+  </details>
+
 - [HowStuffWorks](https://www.howstuffworks.com/) - This website is dedicated entirely to -- you guessed it -- how things work. And by "things," they mean everything: from airbags to regenerative medicine to velocipede carousels. They've covered so much on this website, it'll be hard to run out of things to read about.
   <details>
     <summary>Preview</summary>
@@ -169,6 +181,12 @@
   <details>
     <summary>Preview</summary>
     <img src="PREVIEWS/humans character website.JPG">
+  </details>
+
+- [Heikei](https://haikei.app/) - Heikei is a web-based app that generates SVGs and background patterns. They can be used in a design project or with CSS. It comes with a set of pre-made designs which a user can edit as per their needs.
+  <details>
+    <summary>Preview</summary>
+    <img src="PREVIEWS/Heikei_Ritvik.jpg">
   </details>
 
 ## I
@@ -247,6 +265,12 @@
   <details>
     <summary>Preview</summary>
     <img src="PREVIEWS/MDN Web Docs_ArchanaDash.jpg">
+  </details>
+
+- [MyFridgeFood](https://myfridgefood.com/) - On this site, you can check off the food you have in your fridge and it will generate a list of recipes you can make with them. It's handy for when you're stuck and don't know what to cook.
+  <details>
+    <summary>Preview</summary>
+    <img src="PREVIEWS/myfridgefood_phoebeireland.jpg">
   </details>
 
 ## N
@@ -349,6 +373,13 @@
   </details>
 
 ## W
+
+- [Wayback Machine](https://archive.org/web/) - Explore billions of web pages saved over time.
+  <details>
+    <summary>Preview</summary>
+    <img src="PREVIEWS/WayBackMachine_EgonMarmol.jpg">
+  </details>
+  
 - [WindowSwap](https://www.window-swap.com/) - Allows you to visit random windows around the world
   <details>
     <summary>Preview</summary>
