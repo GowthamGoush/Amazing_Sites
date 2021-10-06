@@ -189,6 +189,11 @@
   </details>
 
 ## I
+- [Itch.io](https://itch.io/) - An open marketplace for independent digital creators with a focus on independent video games.
+  <details>
+    <summary>Preview</summary>
+    <img src="PREVIEWS/itchio_RitinGeorge.jpg">
+  </details>
 - [IconScout](https://iconscout.com/) - Curated SVGs, Vector Icons, Illustrations, 3D graphics, and Lottie Animations. Over 4000+ new assets added every day. Integrated plugins, tools, editors, and more.
   <details>
     <summary>Preview</summary>
