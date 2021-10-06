@@ -176,6 +176,12 @@
     <summary>Preview</summary>
     <img src="PREVIEWS/freecodecamp_biraj.png">
   </details>
+
+- [Frontend Mentor](https://www.frontendmentor.io/) - Solve real-world HTML, CSS and JavaScript challenges whilst working to professional designs. Join 228,004 developers building projects, reviewing code, and helping each other get better.
+  <details>
+    <summary>Preview</summary>
+    <img src="PREVIEWS/frontendmentor_nikkuv.png">
+  </details>
   
 ## G
 - [GeeksForGeeks](https://geeksforgeeks.org) - This website has the great resources to learn programming languages, Web-Development, App-Development, etc. You can also get the interview experiences of various companies on this website. They also have great DSA & interview preparation courses. And on top of that, they also have courses & free materials (MCQs , topic-explanatory blogs) for competitive exams like GATE. And overall it is a great website to help you to launch your career in Software Engineering.
