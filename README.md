@@ -45,22 +45,31 @@
 ---
 
 ## A
+- [Archive](https://archive.is/) - Takes a permanent snapshot of a web page that will exist forever even if the original page is gone.
+  <details>
+    <summary>Preview</summary>
+    <img src="PREVIEWS/archive_AbhikalpArya.png">
+  </details>
+
 - [asdf](https://asdf-vm.com/) - A command line interface tool that manage multiple runtime versions.
   <details>
     <summary>Preview</summary>
     <img src="PREVIEWS/asdf_Michelle-Lohwt.jpg">
   </details>
+  
 - [A Soft Murmur](https://asoftmurmur.com) - A customizable white-noise machine website.
   It provides five different nature sounds: rain, thunder, waves, wind, and fire. This website is useful to reduce distraction and to focus more on work, or relax.
   <details>
     <summary>Preview</summary>
     <img src="PREVIEWS/a_soft_murmur.jpg">
   </details>
+  
 - [Astronomy Picture of the Day](https://apod.nasa.gov/apod/astropix.html) - Discover a different image of our universe every day.
   <details>
     <summary>Preview</summary>
     <img src="PREVIEWS/AstronomyPictureOfTheDay_EgonMarmol.jpg">
   </details>  
+  
 - [Atlas Obscura](https://www.atlasobscura.com/) - The definitive guide to the world’s hidden wonders.
   <details>
     <summary>Preview</summary>
@@ -75,6 +84,12 @@
   </details>
 
 ## C
+- [Canva](https://www.canva.com/en_in/) - Canva is a graphic design platform, used to create social media graphics, presentations, posters, documents and other visual content.
+  <details>
+    <summary>Preview</summary>
+    <img src="PREVIEWS/CANVA_Siddesh.JPG">
+  <details>
+
 - [Carbon](https://dreamy-ptolemy-eb4e80.netlify.app/) - Create and share beautiful images of your source code in any programming or scripting language.
   <details>
     <summary>Preview</summary>
@@ -111,20 +126,23 @@
     <summary>Preview</summary>
     <img src="PREVIEWS/calligraphr_0xquark.jpg">
   </details>
+  
 - [Codier](https://codier.io/) - This webiste provides challenges to improve frontend skills and free resources to learn them.
   <details>
     <summary>Preview</summary>
     <img src="PREVIEWS/Codier_SamarthRaj.jpg">
   </details>
+  
 - [C# Corner](https://www.c-sharpcorner.com/) - Community of Software and Data Developers, and also you can share the knowledge in the form of articles, blogs, videos etc.
   <details>
     <summary>Preview</summary>
     <img src="PREVIEWS/Csharp_Corner_Jeetendra_Gund.jpg">
   </details>
-- [Canva](https://www.canva.com/en_in/) - Canva is a graphic design platform, used to create social media graphics, presentations, posters, documents and other visual content.
+
+- [CODEFORCES](https://codeforces.com/) - Codeforces is one of the best platforms for competitive coding and is usually known for its short challenges/contests where programmers from every corner of the world participate.
   <details>
     <summary>Preview</summary>
-    <img src="PREVIEWS/CANVA_Siddesh.JPG">
+    <img src="PREVIEWS/CODEFORCES_AryanKashyap.png">
   </details>
 
 ## D
@@ -145,6 +163,13 @@
     <summary>Preview</summary>
     <img src="PREVIEWS\atcold.github.io_RajarshiDutta.jpg">
   </details>  
+
+
+- [Distro Test](https://distrotest.net/index.php) - DistroTest is a web service that allows you to test Linux and Unix operating systems online for free, without having to install them locally.
+  <details>
+    <summary>Preview</summary>
+    <img src="PREVIEWS/DistroTest_AryanKashyap.PNG">
+  </details>
 
 ## E
 - [Elements of AI](https://www.elementsofai.com/) - Free online AI courses that combine theory with practical exercises that you can complete at your own pace.
@@ -224,6 +249,12 @@
   <details>
     <summary>Preview</summary>
     <img src="PREVIEWS/Heikei_Ritvik.jpg">
+  </details>
+  
+- [Hacker Typer](https://hackertyper.com/) - Want to feel like you’re in The Matrix? Or at least feel like a super cool computer hacker trying to break into some evil lair? Just open up this site and pound the keyboard away
+  <details>
+    <summary>Preview</summary>
+    <img src="PREVIEWS/HackerTyper_0xquark.jpg">
   </details>
 
 ## I
@@ -345,7 +376,7 @@
     <img src="PREVIEWS/Photopea_AryanKashyap.png">
   </details>
   
-  [PIXLR](https://pixlr.com/) - Pixlr is an Online Photo Editor that lets you edit photos and create great designs right in your browser for Free.
+- [PIXLR](https://pixlr.com/) - Pixlr is an Online Photo Editor that lets you edit photos and create great designs right in your browser for Free.
   <details>
     <summary>Preview</summary>
     <img src="PREVIEWS/PIXLR_Siddesh.JPG">
@@ -415,6 +446,12 @@
     <summary>Preview</summary>
     <img src="PREVIEWS/submarinecablemap_deepu14d.jpg">
   </details>
+  
+  - [Swipwire the Tech Forum](https://swipwire.com/) - Trendy and new tech discussion forum for all tech lover. Any one can contribute with site and can get traffics and free backlinks.
+  <details>
+    <summary>Preview</summary>
+    <img src="PREVIEWS/SwipwireTheTechForum_Dhanushka.jpeg">
+  </details>
 
 ## T
 - [Teach Yourself Computer Science](https://teachyourselfcs.com/) - Some of the best resources out there to teach yourself computer science.
@@ -433,6 +470,12 @@
   <details>
     <summary>Preview</summary>
     <img src="PREVIEWS/TinyPNG_Siddesh.JPG">
+  </details>
+
+- [Temp Mail](https://temp-mail.org/en/) - Its is a free disposable email service that allows receiving email at a temporary address that self-destructed after a certain time elapses. It is also known by names like : tempmail, 10minutemail, 10minmail, throwaway email, fake-mail , fake email generator, burner mail or trash-mail.
+  <details>
+    <summary>Preview</summary>
+    <img src="PREVIEWS/TempMail_AryanKashyap.PNG">
   </details>
 ## U
 
@@ -468,6 +511,12 @@
   <details>
     <summary>Preview</summary>
     <img src="PREVIEWS/wttr_Mayank_Rawat.jpg">
+  </details>
+
+- [W3Schools](https://www.w3schools.com/) - One of the best websites to learn through documentation. It provides clear and understandable texts and practice problems.
+  <details>
+    <summary>Preview</summary>
+    <img src="PREVIEWS/W3S_SamarthRaj.jpg">
   </details>
 
 
