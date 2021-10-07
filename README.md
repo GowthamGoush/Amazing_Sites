@@ -360,7 +360,7 @@
     <img src="PREVIEWS/Photopea_AryanKashyap.png">
   </details>
   
-  [PIXLR](https://pixlr.com/) - Pixlr is an Online Photo Editor that lets you edit photos and create great designs right in your browser for Free.
+- [PIXLR](https://pixlr.com/) - Pixlr is an Online Photo Editor that lets you edit photos and create great designs right in your browser for Free.
   <details>
     <summary>Preview</summary>
     <img src="PREVIEWS/PIXLR_Siddesh.JPG">
