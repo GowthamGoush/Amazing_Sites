@@ -45,22 +45,31 @@
 ---
 
 ## A
+- [Archive](https://archive.is/) - Takes a permanent snapshot of a web page that will exist forever even if the original page is gone.
+  <details>
+    <summary>Preview</summary>
+    <img src="PREVIEWS/archive_AbhikalpArya.png">
+  </details>
+
 - [asdf](https://asdf-vm.com/) - A command line interface tool that manage multiple runtime versions.
   <details>
     <summary>Preview</summary>
     <img src="PREVIEWS/asdf_Michelle-Lohwt.jpg">
   </details>
+  
 - [A Soft Murmur](https://asoftmurmur.com) - A customizable white-noise machine website.
   It provides five different nature sounds: rain, thunder, waves, wind, and fire. This website is useful to reduce distraction and to focus more on work, or relax.
   <details>
     <summary>Preview</summary>
     <img src="PREVIEWS/a_soft_murmur.jpg">
   </details>
+  
 - [Astronomy Picture of the Day](https://apod.nasa.gov/apod/astropix.html) - Discover a different image of our universe every day.
   <details>
     <summary>Preview</summary>
     <img src="PREVIEWS/AstronomyPictureOfTheDay_EgonMarmol.jpg">
   </details>  
+  
 - [Atlas Obscura](https://www.atlasobscura.com/) - The definitive guide to the world’s hidden wonders.
   <details>
     <summary>Preview</summary>
