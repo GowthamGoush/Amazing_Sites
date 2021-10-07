@@ -45,6 +45,12 @@
 ---
 
 ## A
+- [archive](https://archive.is/) - Takes a permanent snapshot of a web page that will exist forever even if the original page is gone.
+  <details>
+    <summary>Preview</summary>
+    <img src="PREVIEWS/archive_AbhikalpArya.jpg">
+  </details>
+
 - [asdf](https://asdf-vm.com/) - A command line interface tool that manage multiple runtime versions.
   <details>
     <summary>Preview</summary>
