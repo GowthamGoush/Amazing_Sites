@@ -84,6 +84,12 @@
   </details>
 
 ## C
+- [Canva](https://www.canva.com/en_in/) - Canva is a graphic design platform, used to create social media graphics, presentations, posters, documents and other visual content.
+  <details>
+    <summary>Preview</summary>
+    <img src="PREVIEWS/CANVA_Siddesh.JPG">
+  <details>
+
 - [Carbon](https://dreamy-ptolemy-eb4e80.netlify.app/) - Create and share beautiful images of your source code in any programming or scripting language.
   <details>
     <summary>Preview</summary>
@@ -120,16 +126,19 @@
     <summary>Preview</summary>
     <img src="PREVIEWS/calligraphr_0xquark.jpg">
   </details>
+  
 - [Codier](https://codier.io/) - This webiste provides challenges to improve frontend skills and free resources to learn them.
   <details>
     <summary>Preview</summary>
     <img src="PREVIEWS/Codier_SamarthRaj.jpg">
   </details>
+  
 - [C# Corner](https://www.c-sharpcorner.com/) - Community of Software and Data Developers, and also you can share the knowledge in the form of articles, blogs, videos etc.
   <details>
     <summary>Preview</summary>
     <img src="PREVIEWS/Csharp_Corner_Jeetendra_Gund.jpg">
   </details>
+
 - [CODEFORCES](https://codeforces.com/) - Codeforces is one of the best platforms for competitive coding and is usually known for its short challenges/contests where programmers from every corner of the world participate.
   <details>
     <summary>Preview</summary>
