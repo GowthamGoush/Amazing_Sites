@@ -449,6 +449,12 @@
     <summary>Preview</summary>
     <img src="PREVIEWS/TinyPNG_Siddesh.JPG">
   </details>
+
+- [Temp Mail](https://temp-mail.org/en/) - Its is a free disposable email service that allows receiving email at a temporary address that self-destructed after a certain time elapses. It is also known by names like : tempmail, 10minutemail, 10minmail, throwaway email, fake-mail , fake email generator, burner mail or trash-mail.
+  <details>
+    <summary>Preview</summary>
+    <img src="PREVIEWS/TempMail_AryanKashyap.PNG">
+  </details>
 ## U
 
 ## V
