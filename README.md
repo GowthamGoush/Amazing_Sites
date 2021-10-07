@@ -155,6 +155,13 @@
     <img src="PREVIEWS\atcold.github.io_RajarshiDutta.jpg">
   </details>  
 
+
+- [Distro Test](https://distrotest.net/index.php) - DistroTest is a web service that allows you to test Linux and Unix operating systems online for free, without having to install them locally.
+  <details>
+    <summary>Preview</summary>
+    <img src="PREVIEWS/DistroTest_AryanKashyap.PNG">
+  </details>
+
 ## E
 - [Elements of AI](https://www.elementsofai.com/) - Free online AI courses that combine theory with practical exercises that you can complete at your own pace.
   <details>
@@ -448,6 +455,12 @@
   <details>
     <summary>Preview</summary>
     <img src="PREVIEWS/TinyPNG_Siddesh.JPG">
+  </details>
+
+- [Temp Mail](https://temp-mail.org/en/) - Its is a free disposable email service that allows receiving email at a temporary address that self-destructed after a certain time elapses. It is also known by names like : tempmail, 10minutemail, 10minmail, throwaway email, fake-mail , fake email generator, burner mail or trash-mail.
+  <details>
+    <summary>Preview</summary>
+    <img src="PREVIEWS/TempMail_AryanKashyap.PNG">
   </details>
 ## U
 
