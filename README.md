@@ -476,6 +476,12 @@
     <img src="PREVIEWS/wttr_Mayank_Rawat.jpg">
   </details>
 
+- [W3Schools](https://www.w3schools.com/) - One of the best websites to learn through documentation. It provides clear and understandable texts and practice problems.
+  <details>
+    <summary>Preview</summary>
+    <img src="PREVIEWS/W3S_SamarthRaj.jpg">
+  </details>
+
 
 ## X
 
