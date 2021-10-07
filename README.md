@@ -121,6 +121,11 @@
     <summary>Preview</summary>
     <img src="PREVIEWS/Csharp_Corner_Jeetendra_Gund.jpg">
   </details>
+- [Canva](https://www.canva.com/en_in/) - Canva is a graphic design platform, used to create social media graphics, presentations, posters, documents and other visual content.
+  <details>
+    <summary>Preview</summary>
+    <img src="PREVIEWS/CANVA_Siddesh.JPG">
+  </details>
 
 ## D
 - [DSA_450](https://450dsa.com/) - If you're working on your DSA skills for interview prep, you would've definitely heard of [Love Babbar's curated list](https://drive.google.com/file/d/1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb/view) of 450 problems. This website helps you to keep track of your progress.
