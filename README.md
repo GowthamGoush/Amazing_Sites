@@ -429,6 +429,11 @@
     <img src="PREVIEWS/TinEyes_LoneRanger.jpg">
   </details>
 
+- [TinyPNG](https://tinypng.com/) - TinyPNG uses smart lossy compression techniques to reduce the file size of your WEBP, JPEG and PNG files. By selectively decreasing the number of colors in the image, fewer bytes are required to store the data. The effect is nearly invisible but it makes a very large difference in file size.
+  <details>
+    <summary>Preview</summary>
+    <img src="PREVIEWS/TinyPNG_Siddesh.JPG">
+  </details>
 ## U
 
 ## V
