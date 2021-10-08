@@ -233,6 +233,13 @@
   </details>
 
 ## H
+
+- [HackerNews](https://news.ycombinator.com/) - Hacker News (sometimes abbreviated as HN) is a social news website focusing on computer science and entrepreneurship. The word hacker in "Hacker News" refers to the hacker culture which consists of people who enjoy tinkering with technology and hence, the content's focus here is on technology. It is owned by "Y Combinator".
+  <details>
+    <summary>Preview</summary>
+    <img src="PREVIEWS/news.ycombinator.com_deepu14d.jpg">
+  </details>
+
 - [Hackerrank](https://www.hackerrank.com/) - Hackerank is a learning platform. It provides a platform to get knowledge about several skills. It also provides free certification and interview preparation kit.
   <details>
     <summary>Preview</summary>
