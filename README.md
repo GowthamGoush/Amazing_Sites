@@ -189,6 +189,12 @@
   </details>
 
 ## F
+- [Favicon Generator](https://www.favicon-generator.org/) - Easily create and edit favicons.
+  <details>
+    <summary>Preview</summary>
+    <img src="PREVIEWS/FaviconGenerator_Bwc9876.png">
+  </details>  
+  
 - [Free Rice](https://freerice.com/categories/english-vocabulary) - Answer triva questions to donate rice and help end world hunger!
   <details>
     <summary>Preview</summary>
