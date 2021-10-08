@@ -493,6 +493,12 @@
     <img src="PREVIEWS/visualgo_kailas.JPG">
   </details>
 
+- [Vector Magic](https://vectormagic.com/) - Vector Magic is an online and desktop software program designed to convert JPG and PNG images to fully functional SVGs or PDFs with speed and ease. Using the original bitmap, Vector Magic accurately traces out the graphic to generate a suitable vectorization.
+  <details>
+    <summary>Preview</summary>
+    <img src="PREVIEWS/VectorMagic_AryanKashyap.PNG">
+  </details>
+
 ## W
 
 - [Wayback Machine](https://archive.org/web/) - Explore billions of web pages saved over time.
