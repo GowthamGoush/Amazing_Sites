@@ -473,7 +473,7 @@
     <img src="PREVIEWS/submarinecablemap_deepu14d.jpg">
   </details>
   
-  - [Swipwire the Tech Forum](https://swipwire.com/) - Trendy and new tech discussion forum for all tech lover. Any one can contribute with site and can get traffics and free backlinks.
+- [Swipwire the Tech Forum](https://swipwire.com/) - Trendy and new tech discussion forum for all tech lover. Any one can contribute with site and can get traffics and free backlinks.
   <details>
     <summary>Preview</summary>
     <img src="PREVIEWS/SwipwireTheTechForum_Dhanushka.jpeg">
