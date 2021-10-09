@@ -448,7 +448,7 @@
   </details>
 
 ## S
-
+  
 - [Smooth DOC](https://smooth-doc.com/) - Smooth DOC is a ready-to-use Gatsby theme to create a documentation website. Creating a pro-quality document website takes weeks. Smooth DOC saves you lot of time and lets you focus on the content.
   <details>
     <summary>Preview</summary>
@@ -471,6 +471,12 @@
   <details>
     <summary>Preview</summary>
     <img src="PREVIEWS/Stellarium_EgonMarmol.jpg">
+  </details>
+
+- [StudyTogether](https://www.studytogether.com/) - It is a community and a virtual Study Space-- available always and from everywhere. 24 x 7 live with learners from all around the globe.
+  <details>
+    <summary>Preview</summary>
+    <img src="PREVIEWS/StudyTogether_RashiShukla.JPG">
   </details>
 
 - [Submarine Cable Map](https://www.submarinecablemap.com/) - A comprehensive and regularly updated interactive map of the world's major submarine cable systems and landing stations. It is regularly updated by TeleGeography.
