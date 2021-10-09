@@ -448,7 +448,13 @@
   </details>
 
 ## S
-  
+
+- [Smashing Magazine](https://www.smashingmagazine.com/) - Smashing magazine is a site which delivers useful and innovative information of articles with the latest and current trends in web development.
+  <details>
+    <summary>Preview</summary>
+    <img src="PREVIEWS/smashingMagazine_KritikaPattalam.JPG">
+  </details>
+
 - [Smooth DOC](https://smooth-doc.com/) - Smooth DOC is a ready-to-use Gatsby theme to create a documentation website. Creating a pro-quality document website takes weeks. Smooth DOC saves you lot of time and lets you focus on the content.
   <details>
     <summary>Preview</summary>
