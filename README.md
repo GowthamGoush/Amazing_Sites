@@ -82,7 +82,14 @@
     <summary>Preview</summary>
     <img src="PREVIEWS/futureme_RangarajB.jpg">
   </details>
-  
+
+- [Flatuicolor](https://flatuicolors.com/) - Helps you to select best UI colors
+   2 features 13 more color palettes. Collaborating with 13 designers around the world, a total set of 280 colors are on your command 
+  <details>
+    <summary>Preview</summary>
+    <img src="PREVIEWS/flatuicolors_arpit282.jpg">
+  </details>
+
 ## G
 - [Gravity-Points](https://codepen.io/akm2/full/rHIsa) - The more gravity centers you plot, the more these forces will start to compete, making your screen all the more chaotic. And yes, your gravity points can absorb one another to create a black hole. It's outer space right there on your computer screen.
   <details>
