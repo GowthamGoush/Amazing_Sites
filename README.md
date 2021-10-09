@@ -213,12 +213,13 @@
     <img src="PREVIEWS/futureme_RangarajB.jpg">
   </details>
 
-- [Flatuicolor](https://flatuicolors.com/) - Helps you to select best UI colors
+- [FlatUIColor](https://flatuicolors.com/) - Helps you to select best UI colors
    2 features 13 more color palettes. Collaborating with 13 designers around the world, a total set of 280 colors are on your command 
   <details>
     <summary>Preview</summary>
     <img src="PREVIEWS/flatuicolors_arpit282.jpg">
   </details>
+    
 - [FreeCodeCamp](https://www.freecodecamp.org/) - Learn to code for free, build projects, earn certifications. FreeCodeCamp is a non-profit organization that consists of an interactive learning web platform, an online community forum, chat rooms, online publications and local organizations that intend to make learning web development accessible to anyone
   <details>
     <summary>Preview</summary>
@@ -231,7 +232,6 @@
     <img src="PREVIEWS/frontendmentor_nikkuv.png">
   </details>
   
-
 ## G
 - [GeeksForGeeks](https://geeksforgeeks.org) - This website has the great resources to learn programming languages, Web-Development, App-Development, etc. You can also get the interview experiences of various companies on this website. They also have great DSA & interview preparation courses. And on top of that, they also have courses & free materials (MCQs , topic-explanatory blogs) for competitive exams like GATE. And overall it is a great website to help you to launch your career in Software Engineering.
   <details>
