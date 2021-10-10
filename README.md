@@ -390,6 +390,12 @@
     <img src="PREVIEWS/myfridgefood_phoebeireland.jpg">
   </details>
 
+- [Material.io](https://material.io/) -Material is an adaptable system of guidelines, components, and tools that support the best practices of user interface design. Backed by open-source code, Material streamlines collaboration between designers and developers, and helps teams quickly build beautiful products.Backed by google.
+  <details>
+    <summary>Preview</summary>
+    <img src="PREVIEWS/material-io_kailas.jpg">
+  </details>
+
 ## N
 
 ## O
