@@ -150,6 +150,12 @@
     <summary>Preview</summary>
     <img src="PREVIEWS/Crontab.JPG">
   </details>
+
+- [CSSbuttons.io](http://cssbuttons.io/) - find perfect buttons for your project.
+  <details>
+    <summary>Preview</summary>
+    <img src="PREVIEWS/cssbuttons_kailas.JPG">
+  </details>
     
 ## D
 - [DSA_450](https://450dsa.com/) - If you're working on your DSA skills for interview prep, you would've definitely heard of [Love Babbar's curated list](https://drive.google.com/file/d/1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb/view) of 450 problems. This website helps you to keep track of your progress.
@@ -178,6 +184,11 @@
   </details>
 
 ## E
+- [edX](https://www.edx.org/) - edX is one of the world’s leading MOOC platforms. MOOCs (massive open online courses) are offered for free to anyone wishing to learn.
+  <details>
+    <summary>Preview</summary>
+    <img src="PREVIEWS/edX_TannuSharma.jpeg">
+  </details>
 - [Elements of AI](https://www.elementsofai.com/) - Free online AI courses that combine theory with practical exercises that you can complete at your own pace.
   <details>
     <summary>Preview</summary>
@@ -213,6 +224,13 @@
     <img src="PREVIEWS/futureme_RangarajB.jpg">
   </details>
 
+- [FlatUIColor](https://flatuicolors.com/) - Helps you to select best UI colors
+   2 features 13 more color palettes. Collaborating with 13 designers around the world, a total set of 280 colors are on your command 
+  <details>
+    <summary>Preview</summary>
+    <img src="PREVIEWS/flatuicolors_arpit282.jpg">
+  </details>
+    
 - [FreeCodeCamp](https://www.freecodecamp.org/) - Learn to code for free, build projects, earn certifications. FreeCodeCamp is a non-profit organization that consists of an interactive learning web platform, an online community forum, chat rooms, online publications and local organizations that intend to make learning web development accessible to anyone
   <details>
     <summary>Preview</summary>
@@ -441,7 +459,7 @@
   </details>
 
 ## S
-
+  
 - [Smooth DOC](https://smooth-doc.com/) - Smooth DOC is a ready-to-use Gatsby theme to create a documentation website. Creating a pro-quality document website takes weeks. Smooth DOC saves you lot of time and lets you focus on the content.
   <details>
     <summary>Preview</summary>
@@ -464,6 +482,12 @@
   <details>
     <summary>Preview</summary>
     <img src="PREVIEWS/Stellarium_EgonMarmol.jpg">
+  </details>
+
+- [StudyTogether](https://www.studytogether.com/) - It is a community and a virtual Study Space-- available always and from everywhere. 24 x 7 live with learners from all around the globe.
+  <details>
+    <summary>Preview</summary>
+    <img src="PREVIEWS/StudyTogether_RashiShukla.JPG">
   </details>
 
 - [Submarine Cable Map](https://www.submarinecablemap.com/) - A comprehensive and regularly updated interactive map of the world's major submarine cable systems and landing stations. It is regularly updated by TeleGeography.
