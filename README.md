@@ -187,7 +187,7 @@
 - [edX](https://www.edx.org/) - edX is one of the world’s leading MOOC platforms. MOOCs (massive open online courses) are offered for free to anyone wishing to learn.
   <details>
     <summary>Preview</summary>
-    <img src="edX_TannuSharma.jpeg">
+    <img src="PREVIEWS/edX_TannuSharma.jpeg">
   </details>
 - [Elements of AI](https://www.elementsofai.com/) - Free online AI courses that combine theory with practical exercises that you can complete at your own pace.
   <details>
