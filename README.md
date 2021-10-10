@@ -502,6 +502,12 @@
     <img src="PREVIEWS/SwipwireTheTechForum_Dhanushka.jpeg">
   </details>
 
+- [Statmethods.io](https://www.statmethods.net/) - it is a great site for beginners to learn R language and statistics.
+  <details>
+    <summary>Preview</summary>
+    <img src="PREVIEWS/statmethods_kailas.JPG">
+  </details>
+
 ## T
 - [Teach Yourself Computer Science](https://teachyourselfcs.com/) - Some of the best resources out there to teach yourself computer science.
   <details>
