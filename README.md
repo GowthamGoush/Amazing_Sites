@@ -367,12 +367,12 @@
     <summary>Preview</summary>
     <img src="PREVIEWS/Log2Base2_AnuragYadav.jpg">
   </details>
-- [Learn x in y minutes]( https://learnxinyminutes.com/) - quickly grab programming language concepts. It is available in 23 languages.
+- [Learn x in y minutes](https://learnxinyminutes.com/) - quickly grab programming language concepts. It is available in 23 languages.
   <details>
     <summary>Preview</summary>
     <img src="PREVIEWS/learnxinyminutes_kailas.JPG">
   </details>
-  - [Laracasts]( https://laracasts.com/) - Push your web development skills to the next level, through expert screencasts on Laravel, Vue, and so much more.
+- [Laracasts](https://laracasts.com/) - Push your web development skills to the next level, through expert screencasts on Laravel, Vue, and so much more.
   <details>
     <summary>Preview</summary>
     <img src="PREVIEWS/laracasts_capriz.png">
