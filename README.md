@@ -102,6 +102,12 @@
     <img src="PREVIEWS/Carbon_AnuragYadav.jpg">
   </details>
   
+- [Checklist Design](https://www.checklist.design/) - A checklist for web developers to make your work assured and not miss any fundamental parts of the project.
+  <details>
+    <summary>Preview</summary>
+    <img src="PREVIEWS/ChecklistDesign_Siddhi.jpg">
+  </details>
+
 - [Code Chef](https://www.codechef.com/) - CodeChef is a platform to help programmers make it big in the world of algorithms, computer programming, and programming contests. It hosts three featured contests every month (Long Challenge, CookOff, LunchTime & Starters) and gives away prizes and goodies to the winners as encouragement.
   <details>
    <summary>Preview</summary>
