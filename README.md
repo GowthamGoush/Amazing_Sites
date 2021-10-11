@@ -77,6 +77,12 @@
   </details>  
 
 ## B
+- [Bartleby](https://www.bartleby.com/) - Bartleby publishes classic literature, poetry, non-fiction and reference texts free of charge.
+  <details>
+    <summary>Preview</summary>
+    <img src="PREVIEWS/Bartleby_PreetiAhuja.jpeg">
+  </details>
+
 - [Boil The Frog](http://boilthefrog.playlistmachinery.com/) - Create a playlist of songs that moves seamlessly from one artist to another according to Spotify's artist similarity algorithm. (Ex. Justin Bieber to Jimi Hendrix, Miley Cyrus to Miles Davis, The Carter Family to Rammstein). 
   <details>
     <summary>Preview</summary>
