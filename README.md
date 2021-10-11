@@ -372,11 +372,19 @@
     <summary>Preview</summary>
     <img src="PREVIEWS/learnxinyminutes_kailas.JPG">
   </details>
+
+  - [Hotel in Boracay]( https://www.thelindhotels.com/) - Brochure site for Hotel in Boracay Philippines.
+  <details>
+    <summary>Preview</summary>
+    <img src="PREVIEWS/lindt.png">
+  </details>
+
 - [Laracasts]( https://laracasts.com/) - Push your web development skills to the next level, through expert screencasts on Laravel, Vue, and so much more.
   <details>
     <summary>Preview</summary>
     <img src="PREVIEWS/laracasts_capriz.png">
   </details>
+    
 ## M
 - [MDN Web Docs](https://developer.mozilla.org/en-US/) - Official documentation repository for the web developers owned by Mozilla.
   <details>
