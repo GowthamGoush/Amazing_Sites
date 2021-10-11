@@ -546,6 +546,12 @@
   </details>
 ## U
 
+- [Unicode Character Table](https://unicode-table.com/en/) - Unicode is a computing standard for the consistent encoding symbols. This website unicode-table contain everything related to Unicode encoding, encoding of every emoji, international languages, symbols, fancy letters, etc. It's very helpful as Unicode encoding and UTF-8 are very similar. 
+  <details>
+    <summary>Preview</summary>
+    <img src="PREVIEWS/unicode-table_deepu14d.jpg">
+  </details>
+
 ## V
     
 - [Virustotal](https://www.virustotal.com/) - Virus Total is an online service that analyzes suspicious files and URLs to detect types of malware and malicious content using antivirus engines and website scanners.
