@@ -242,6 +242,13 @@
     <summary>Preview</summary>
     <img src="PREVIEWS/frontendmentor_nikkuv.png">
   </details>
+
+- [The Free Learning List](https://freelearninglist.org) - Internet's Best educational resources at one place; an initiative of the school thought.org
+  <details>
+    <summary>Preview</summary>
+    <img src="PREVIEWS/freelearninglist.org_VidhyaVarshany.png">
+  </details>
+
   
 ## G
 - [GeeksForGeeks](https://geeksforgeeks.org) - This website has the great resources to learn programming languages, Web-Development, App-Development, etc. You can also get the interview experiences of various companies on this website. They also have great DSA & interview preparation courses. And on top of that, they also have courses & free materials (MCQs , topic-explanatory blogs) for competitive exams like GATE. And overall it is a great website to help you to launch your career in Software Engineering.
@@ -377,6 +384,12 @@
     <summary>Preview</summary>
     <img src="PREVIEWS/laracasts_capriz.png">
   </details>
+- [Learn Anything](https://learn-anything.xyz) - A Platform for knowledge discovery that helps you understand any topic through the most efficient paths
+  <details>
+    <summary>Preview</summary>
+    <img src="PREVIEWS/learn-anything.xyz_VidhyaVarshany.png">
+  </details>
+
 ## M
 - [MDN Web Docs](https://developer.mozilla.org/en-US/) - Official documentation repository for the web developers owned by Mozilla.
   <details>
