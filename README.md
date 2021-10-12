@@ -478,6 +478,12 @@
 
 ## S
 
+- [Scotch.io](https://scotch.io/) - Scotch.io is a web development blog discussing all things programming, development, web and life. Scotch.io provides high quality and easy to understand content for web developers.
+  <details>
+    <summary>Preview</summary>
+    <img src="PREVIEWS/scotch_io_KritikaPattalam.JPG">
+  </details>
+
 - [Smashing Magazine](https://www.smashingmagazine.com/) - Smashing magazine is a site which delivers useful and innovative information of articles with the latest and current trends in web development.
   <details>
     <summary>Preview</summary>
