@@ -76,6 +76,12 @@
     <img src="PREVIEWS/AtlasObscura_ketilmo.jpg">
   </details>  
 
+- [Awwwards](https://www.awwwards.com/) - Awwwards is a professional web design and development competition site. It can be used to get inspirations and theme ideas for your projects from world's most innovative websites.
+  <details>
+    <summary>Preview</summary>
+    <img src="PREVIEWS/awwwards_TheRealDarkCoder.png">
+  </details>
+
 ## B
 - [Bartleby](https://www.bartleby.com/) - Bartleby publishes classic literature, poetry, non-fiction and reference texts free of charge.
   <details>
