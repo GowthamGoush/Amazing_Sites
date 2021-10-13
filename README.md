@@ -214,6 +214,13 @@
     <summary>Preview</summary>
     <img src="PREVIEWS/edX_TannuSharma.jpeg">
   </details>
+    
+- [edabit](https://edabit.com/challenges) - edabit is a learning platform to learn coding and solve interactive challenges. Gain XP, unlock achievements and level up.
+  <details>
+    <summary>Preview</summary>
+    <img src="PREVIEWS/Edabit_Mkhy.PNG">
+  </details>
+    
 - [Elements of AI](https://www.elementsofai.com/) - Free online AI courses that combine theory with practical exercises that you can complete at your own pace.
   <details>
     <summary>Preview</summary>
