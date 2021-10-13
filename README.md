@@ -389,6 +389,12 @@
     <summary>Preview</summary>
     <img src="PREVIEWS/laracasts_capriz.png">
   </details>
+- [Learn Anything](https://learn-anything.xyz) - A Platform for knowledge discovery that helps you understand any topic through the most efficient paths
+  <details>
+    <summary>Preview</summary>
+    <img src="PREVIEWS/learn-anything.xyz_VidhyaVarshany.png">
+  </details>
+
 ## M
 - [MDN Web Docs](https://developer.mozilla.org/en-US/) - Official documentation repository for the web developers owned by Mozilla.
   <details>
@@ -561,6 +567,11 @@
   <details>
     <summary>Preview</summary>
     <img src="PREVIEWS/TempMail_AryanKashyap.PNG">
+  </details>
+- [The Free Learning List](https://freelearninglist.org) - Internet's Best educational resources at one place; an initiative of the school thought.org
+  <details>
+    <summary>Preview</summary>
+    <img src="PREVIEWS/freelearninglist.org_VidhyaVarshany.png">
   </details>
 ## U
 
