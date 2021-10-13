@@ -243,11 +243,7 @@
     <img src="PREVIEWS/frontendmentor_nikkuv.png">
   </details>
 
-- [The Free Learning List](https://freelearninglist.org) - Internet's Best educational resources at one place; an initiative of the school thought.org
-  <details>
-    <summary>Preview</summary>
-    <img src="PREVIEWS/freelearninglist.org_VidhyaVarshany.png">
-  </details>
+
 
   
 ## G
@@ -556,6 +552,11 @@
   <details>
     <summary>Preview</summary>
     <img src="PREVIEWS/TempMail_AryanKashyap.PNG">
+  </details>
+- [The Free Learning List](https://freelearninglist.org) - Internet's Best educational resources at one place; an initiative of the school thought.org
+  <details>
+    <summary>Preview</summary>
+    <img src="PREVIEWS/freelearninglist.org_VidhyaVarshany.png">
   </details>
 ## U
 
