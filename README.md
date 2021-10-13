@@ -626,6 +626,12 @@
     <summary>Preview</summary>
     <img src="PREVIEWS/whoismrrobot_0xquark.jpg">
   </details>
+    
+- [wickedbackgrounds](https://wickedbackgrounds.com) - Create beautiful SVG backgrounds for your UI designs. 
+  <details>
+    <summary>Preview</summary>
+    <img src="PREVIEWS/wickedbackgrounds_byt3h3ad.png">
+  </details>   
   
 - [wttr](https://wttr.in/) - Provides Terminal Weather Forecast 
   <details>
