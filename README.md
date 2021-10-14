@@ -677,5 +677,3 @@
     <summary>Preview</summary>
     <img src="PREVIEWS/zlibrary_canaryGrapher.jpg">
   </details>
-
-   
