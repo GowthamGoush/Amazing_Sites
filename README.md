@@ -588,12 +588,14 @@
     <summary>Preview</summary>
     <img src="PREVIEWS/TempMail_AryanKashyap.PNG">
   </details>
+    
 - [The Free Learning List](https://freelearninglist.org) - Internet's Best educational resources at one place; an initiative of the school thought.org
   <details>
     <summary>Preview</summary>
     <img src="PREVIEWS/freelearninglist.org_VidhyaVarshany.png">
   </details>
-- [30 Days Coding](https://www.30dayscoding.com/) - This is one of the best coding site . In this site you can find DSA roadmaps, developer roadmaps , DSA guide, resume guide and template and much more.
+    
+- [30 Days Coding](https://www.30dayscoding.com/) - This is one of the best coding site where you can find DSA roadmaps, developer roadmaps , DSA guide, resume guide, templates and much more.
   <details>
     <summary>Preview</summary>
     <img src="PREVIEWS/30daysCoding_DevanshiMishra.jpg">
@@ -664,7 +666,6 @@
     <summary>Preview</summary>
     <img src="PREVIEWS/W3S_SamarthRaj.jpg">
   </details>
-
 
 ## X
 
