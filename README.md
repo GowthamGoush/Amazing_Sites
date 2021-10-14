@@ -593,6 +593,12 @@
     <summary>Preview</summary>
     <img src="PREVIEWS/freelearninglist.org_VidhyaVarshany.png">
   </details>
+- [30 Days Coding](https://www.30dayscoding.com/) - This is one of the best coding site . In this site you can find DSA roadmaps, developer roadmaps , DSA guide, resume guide and template and much more.
+  <details>
+    <summary>Preview</summary>
+    <img src="PREVIEWS/30daysCoding_DevanshiMishra.jpg">
+  </details>    
+    
 ## U
 
 - [Unicode Character Table](https://unicode-table.com/en/) - Unicode is a computing standard for the consistent encoding symbols. This website unicode-table contain everything related to Unicode encoding, encoding of every emoji, international languages, symbols, fancy letters, etc. It's very helpful as Unicode encoding and UTF-8 are very similar. 
@@ -670,10 +676,5 @@
     <summary>Preview</summary>
     <img src="PREVIEWS/zlibrary_canaryGrapher.jpg">
   </details>
-### Educational site
-    - [30 Days Coding](https://www.30dayscoding.com/) - This is one of the best coding site . In this site you can find DSA roadmaps, developer roadmaps , DSA guide, resume guide and template and much more.
-  <details>
-    <summary>Preview</summary>
-    <img src="PREVIEWS/30daysCoding_DevanshiMishra.jpg">
-  </details>
-    
+
+   
