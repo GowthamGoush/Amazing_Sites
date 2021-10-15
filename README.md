@@ -116,7 +116,7 @@
 - [Lipsum](https://www.lipsum.com/) - Generate lorem ipsum text for designers and developers
   <details>
   <summary>Preview</summary>
-  <img src="">
+  <img src="PREVIEWS/Lipsum_canaryGrapher.jpg">
   </details>
 ## M
 
