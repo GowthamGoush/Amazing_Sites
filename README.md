@@ -120,6 +120,12 @@
     <img src="PREVIEWS/CODE CHEF_NAYAN CHANDAK.jpg">
   </details>
 
+- [CodeSandbox](https://codesandbox.io/) - CodeSandbox is a sandbox for rapid Web development where the developers can get multiple templates and environments already set up for development and also makes collaboration easy.
+  <details>
+    <summary>Preview</summary>
+    <img src="PREVIEWS/CodeSandbox_JiteshKanojia.png">
+  </details>
+
 - [Coggle](https://coggle.it/) - Create full roadmap for your project and schemas.
   <details>
     <summary>Preview</summary>
