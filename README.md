@@ -405,7 +405,11 @@
     <summary>Preview</summary>
     <img src="PREVIEWS/Log2Base2_AnuragYadav.jpg">
   </details>
-
+- [Free Logo Maker](https://logo.com/) - Launch your brand with a free logo.
+  <details>
+    <summary>Preview</summary>
+    <img src="PREVIEWS/logo.JPG">
+  </details>
 - [Lipsum](https://www.lipsum.com/) - Generate lorem ipsum text for designers and developers
   <details>
   <summary>Preview</summary>
