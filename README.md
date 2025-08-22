@@ -363,6 +363,12 @@
     <img src="PREVIEWS/itchio_RitinGeorge.jpg">
   </details>
 
+- [instaking.org](https://instaking.org/en) - SMM Tool that brings more engagement to instagram content. 
+  <details>
+    <summary>Preview</summary>
+    <img src="PREVIEWS/instaking_PetraFox.jpg">
+  </details>
+
 ## J
 - [Jitter.Video](https://jitter.video/) - desiigners handy way for motion design, a website where you can create animations and Export them as a GIF or a video all in your browser, cool tool for future animated posts for any one's social media or any personal project.
   <details>
