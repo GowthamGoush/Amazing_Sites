@@ -182,6 +182,12 @@
     <img src="PREVIEWS/Crontab.JPG">
   </details>
 
+- [crzy.site](https://crzy.site) - A growing collection of absolutely pointless single-page websites. Each one dumber than the last.
+  <details>
+    <summary>Preview</summary>
+    <img src="PREVIEWS/crzysite_ittermit.png">
+  </details>
+
 - [CSSbuttons.io](http://cssbuttons.io/) - find perfect buttons for your project.
   <details>
     <summary>Preview</summary>
