@@ -471,6 +471,12 @@
     <img src="PREVIEWS/Photopea_AryanKashyap.png">
   </details>
   
+- [PixelArtHive](https://pixelarthive.com/) - Free image-to-pixel-art conversion and pixel art upscaling, processed locally in the browser.
+  <details>
+    <summary>Preview</summary>
+    <img src="PREVIEWS/PixelArtHive_Jam.jpg" alt="PixelArtHive image-to-pixel-art converter">
+  </details>
+
 - [PIXLR](https://pixlr.com/) - Pixlr is an Online Photo Editor that lets you edit photos and create great designs right in your browser for Free.
   <details>
     <summary>Preview</summary>
