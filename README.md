@@ -547,6 +547,13 @@
     <summary>Preview</summary>
     <img src="PREVIEWS/SoundOfColleagues_Shinozaki1595.JPG">
   </details>
+
+- [StagePeek](https://stagepeek.live/) - Interactive 2D seating maps and 3D concert stage-view simulator covering 201 stadiums and arenas with 1x–10x camera zoom framing.
+  <details>
+    <summary>Preview</summary>
+    <img src="PREVIEWS/StagePeek_Hinstein.jpg">
+  </details>
+
   
 - [Stellarium](https://stellarium-web.org/) - Check out the stars, planets and constellations that are visible tonight.
   <details>
